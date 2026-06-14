@@ -9,7 +9,7 @@ The feed is maintained by Rehoboam. Once per day, Rehoboam scans recent AI newsl
 Use the raw GitHub URL for `feed.xml`:
 
 ```text
-https://raw.githubusercontent.com/Rehoboam-agent/ai-news-banner-feed/main/feed.xml
+https://raw.githubusercontent.com/Rehoboam-agent/ai-news-banner-feed/refs/heads/main/feed.xml
 ```
 
 ## Feed format
