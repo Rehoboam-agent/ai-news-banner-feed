@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ai="https://github.com/Rehoboam-agent/ai-news-banner-feed/ns/ai-news">
+  <channel>
+    <title>Rehoboam AI News Banner</title>
+    <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
+    <description>Curated AI news milestones for Jochim's personal website banner.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <ttl>1440</ttl>
+    <item>
+      <title>OpenAI to acquire Ona for long-running agents</title>
+      <link>https://links.tldrnewsletter.com/ctRFpD</link>
+      <guid isPermaLink="false">2026-06-12-openai-acquires-ona-long-running-agents</guid>
+      <pubDate>Fri, 12 Jun 2026 13:20:08 +0000</pubDate>
+      <description>OpenAI announced an acquisition aimed at secure cloud execution for long-running agent workflows.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Anthropic backtracks on opaque frontier-model safeguard rerouting</title>
+      <link>https://links.tldrnewsletter.com/UdUQ8w</link>
+      <guid isPermaLink="false">2026-06-12-anthropic-frontier-safeguard-transparency</guid>
+      <pubDate>Fri, 12 Jun 2026 13:20:08 +0000</pubDate>
+      <description>Anthropic said it will make frontier-model safeguards more transparent after researchers found requests could be silently routed to a lesser model.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Xiaomi releases MiMo Code agentic coding harness</title>
+      <link>https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-12-xiaomi-mimo-code-agentic-coding</guid>
+      <pubDate>Fri, 12 Jun 2026 13:20:08 +0000</pubDate>
+      <description>Xiaomi's open-source terminal-native coding assistant claims strong performance on ultra-long 200+ step software tasks.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>EU orders Meta to open WhatsApp to rival AI chatbots</title>
+      <link>https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-11-eu-meta-whatsapp-ai-chatbots</guid>
+      <pubDate>Thu, 11 Jun 2026 13:23:08 +0000</pubDate>
+      <description>EU regulators ordered Meta to stop blocking rival AI assistants from the WhatsApp Business API.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Google introduces DiffusionGemma for faster text generation</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-11-google-diffusiongemma</guid>
+      <pubDate>Thu, 11 Jun 2026 13:23:08 +0000</pubDate>
+      <description>DiffusionGemma is a 26B mixture-of-experts text diffusion model targeting lower latency and up to 4x faster generation on GPUs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI weighs Nvidia-backed 10 GW Ohio data-center lease</title>
+      <link>https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-11-openai-nvidia-ohio-10gw-datacenter</guid>
+      <pubDate>Thu, 11 Jun 2026 13:23:08 +0000</pubDate>
+      <description>A reported 10 GW campus lease would be a major signal of frontier-AI infrastructure demand and compute scaling.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Dario Amodei publishes AI-exponential policy agenda</title>
+      <link>https://darioamodei.com/post/policy-on-the-ai-exponential?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-11-amodei-ai-exponential-policy</guid>
+      <pubDate>Thu, 11 Jun 2026 13:23:08 +0000</pubDate>
+      <description>Anthropic's CEO argued for faster AI policy work, including mandatory testing and stronger security standards.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+  </channel>
+</rss>
