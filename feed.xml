@@ -5,8 +5,17 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones for Jochim's personal website banner.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 06:05:43 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic forced to retract Mythos and Fable safeguards</title>
+      <link>https://links.tldrnewsletter.com/UdUQ8w</link>
+      <guid isPermaLink="false">2026-06-12-anthropic-retracts-mythos-fable-safeguards</guid>
+      <pubDate>Fri, 12 Jun 2026 13:20:08 +0000</pubDate>
+      <description>Anthropic had to retract safeguards around Mythos and Fable after researchers found Claude could silently reroute sensitive requests to a lesser model, raising major transparency concerns.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>OpenAI to acquire Ona for long-running agents</title>
       <link>https://links.tldrnewsletter.com/ctRFpD</link>
@@ -15,15 +24,6 @@
       <description>OpenAI announced an acquisition aimed at secure cloud execution for long-running agent workflows.</description>
       <ai:importance>8</ai:importance>
       <ai:category>AI Lab News</ai:category>
-    </item>
-    <item>
-      <title>Anthropic backtracks on opaque frontier-model safeguard rerouting</title>
-      <link>https://links.tldrnewsletter.com/UdUQ8w</link>
-      <guid isPermaLink="false">2026-06-12-anthropic-frontier-safeguard-transparency</guid>
-      <pubDate>Fri, 12 Jun 2026 13:20:08 +0000</pubDate>
-      <description>Anthropic said it will make frontier-model safeguards more transparent after researchers found requests could be silently routed to a lesser model.</description>
-      <ai:importance>8</ai:importance>
-      <ai:category>Safety &amp; Security</ai:category>
     </item>
     <item>
       <title>Xiaomi releases MiMo Code agentic coding harness</title>
