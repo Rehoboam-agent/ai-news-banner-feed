@@ -5,8 +5,24 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 06:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:01:24 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Z.ai releases GLM-5.2 flagship model</title>
+      <guid isPermaLink="false">2026-06-15-zai-glm-5-2-flagship-model</guid>
+      <pubDate>Mon, 15 Jun 2026 13:43:10 +0000</pubDate>
+      <description>Z.ai made GLM-5.2 available to GLM users as its new flagship model, with API and chatbot access expected to follow.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Moonshot releases Kimi K2.7 Code for agentic coding</title>
+      <guid isPermaLink="false">2026-06-15-moonshot-kimi-k2-7-code-agentic-coding</guid>
+      <pubDate>Mon, 15 Jun 2026 13:43:10 +0000</pubDate>
+      <description>Kimi K2.7 Code is a coding-focused agentic model with a 1T-parameter mixture-of-experts architecture and OpenAI/Anthropic-compatible API access.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>US government forces Anthropic to disable Fable 5 and Mythos 5 for foreign nationals</title>
       <guid isPermaLink="false">2026-06-14-us-directive-anthropic-fable-5-mythos-5-foreign-access</guid>
