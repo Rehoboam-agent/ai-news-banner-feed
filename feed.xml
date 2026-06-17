@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:01:02 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Sakana releases Marlin autonomous AI researcher</title>
+      <link>https://sakana.ai/marlin-release/#English?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-16-sakana-marlin-autonomous-ai-researcher</guid>
+      <pubDate>Tue, 16 Jun 2026 13:22:33 +0000</pubDate>
+      <description>Sakana released Marlin, an autonomous researcher that plans investigations and generates detailed strategy reports, signaling continued progress toward agentic research workflows.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Factory launches Factory 2.0 software-factory platform</title>
+      <link>https://factory.ai/news/software-factory?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-16-factory-2-software-factory-agentic-coding</guid>
+      <pubDate>Tue, 16 Jun 2026 13:22:33 +0000</pubDate>
+      <description>Factory described its move from coding agents toward software factories for autonomous planning and execution across software-development workflows.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>LMSYS details DFlash v2 speculative decoding</title>
+      <link>https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-16-lmsys-dflash-v2-speculative-decoding</guid>
+      <pubDate>Tue, 16 Jun 2026 13:22:33 +0000</pubDate>
+      <description>LMSYS detailed a new generation of speculative decoding that reports throughput gains over baseline inference and native MTP speculation.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Z.ai releases GLM-5.2 flagship model</title>
       <guid isPermaLink="false">2026-06-15-zai-glm-5-2-flagship-model</guid>
