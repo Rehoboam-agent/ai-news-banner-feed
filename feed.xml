@@ -5,8 +5,48 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 05:01:13 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>DeepSeek becomes China’s most valuable AI startup after $7.4B raise</title>
+      <guid isPermaLink="false">2026-06-17-deepseek-7-4b-fundraise</guid>
+      <pubDate>Wed, 17 Jun 2026 13:56:56 +0000</pubDate>
+      <description>DeepSeek reportedly raised more than $7.4 billion in a financing round, underscoring the scale of China’s frontier-AI funding race.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>Android 17 expands AI agent integration</title>
+      <guid isPermaLink="false">2026-06-17-android-17-ai-agent-integration</guid>
+      <pubDate>Wed, 17 Jun 2026 13:56:56 +0000</pubDate>
+      <description>Android 17 adds AI-focused capabilities and discoverable tools for on-device agents, pushing agent integration deeper into the mobile operating system.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Cursor Origin targets agent-native software development</title>
+      <guid isPermaLink="false">2026-06-17-cursor-origin-agent-native-forge</guid>
+      <pubDate>Wed, 17 Jun 2026 13:56:56 +0000</pubDate>
+      <description>Cursor Origin is a Git-compatible forge designed for many AI agents cloning, branching, committing, rebasing, reviewing, and fixing failures in parallel.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA Blackwell dominates MLPerf Training 6.0</title>
+      <guid isPermaLink="false">2026-06-17-nvidia-blackwell-mlperf-training-6</guid>
+      <pubDate>Wed, 17 Jun 2026 13:56:56 +0000</pubDate>
+      <description>NVIDIA’s Blackwell platform led MLPerf Training 6.0 results, highlighting faster and larger-scale training performance for frontier AI infrastructure.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>SpaceX to acquire Cursor in $60B stock deal</title>
+      <guid isPermaLink="false">2026-06-17-spacex-acquires-cursor-60b</guid>
+      <pubDate>Wed, 17 Jun 2026 10:23:04 +0000</pubDate>
+      <description>SpaceX is reportedly acquiring Cursor for $60 billion in stock, a major consolidation move around AI coding tools and agentic software development.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>Sakana releases Marlin autonomous AI researcher</title>
       <link>https://sakana.ai/marlin-release/#English?utm_source=tldrai</link>
