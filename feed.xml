@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 05:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 05:00:31 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Noam Shazeer leaves Google to join OpenAI</title>
+      <link>https://threadreaderapp.com/thread/2067400851438932297.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-18-noam-shazeer-joins-openai</guid>
+      <pubDate>Thu, 18 Jun 2026 13:22:04 +0000</pubDate>
+      <description>Noam Shazeer, a key Google AI researcher and Transformer coauthor, is reportedly moving to OpenAI in a notable frontier-lab talent shift.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Vercel releases eve open-source agent framework</title>
+      <link>https://vercel.com/blog/introducing-eve?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-18-vercel-eve-agent-framework</guid>
+      <pubDate>Thu, 18 Jun 2026 13:22:04 +0000</pubDate>
+      <description>Vercel introduced eve, an open-source framework for production AI agents with durable execution, sandboxed compute, approvals, subagents, and evaluations.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>ChatGPT market share slips below 50%</title>
+      <link>https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-18-chatgpt-market-share-below-50</guid>
+      <pubDate>Thu, 18 Jun 2026 13:22:04 +0000</pubDate>
+      <description>ChatGPT reportedly fell below half of AI assistant market share for the first time as users increasingly switch among Gemini, Claude, Grok, and other assistants.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>DeepSeek becomes China’s most valuable AI startup after $7.4B raise</title>
       <guid isPermaLink="false">2026-06-17-deepseek-7-4b-fundraise</guid>
