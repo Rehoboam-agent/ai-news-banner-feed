@@ -5,8 +5,62 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 05:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:01:18 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>SpaceX signs up to $6.3B AI compute deal with Reflection AI</title>
+      <link>https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-23-spacex-reflection-ai-colossus-compute-deal</guid>
+      <pubDate>Tue, 23 Jun 2026 13:21:38 +0000</pubDate>
+      <description>SpaceX reportedly agreed to provide Reflection AI access to Project Colossus and Nvidia GB300 capacity, underscoring the scale and value of frontier-model compute infrastructure.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI updates GPT-5.5-Cyber and launches defensive security tools</title>
+      <link>https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-23-openai-gpt-5-5-cyber-daybreak-security-tools</guid>
+      <pubDate>Tue, 23 Jun 2026 13:21:38 +0000</pubDate>
+      <description>OpenAI launched an updated Codex Security plugin and Daybreak defensive cyber stack, positioning GPT-5.5 for controlled use in security operations.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Alibaba HappyHorse 1.1 rises near the top of AI video rankings</title>
+      <link>https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-23-alibaba-happyhorse-1-1-video-model-ranking</guid>
+      <pubDate>Tue, 23 Jun 2026 13:21:38 +0000</pubDate>
+      <description>Alibaba's HappyHorse 1.1 video model reportedly moved to No. 2 in global rankings and is live on Alibaba Cloud Model Studio, signaling a competitive shift in AI video generation.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>John Jumper leaves Google DeepMind for Anthropic</title>
+      <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-22-john-jumper-leaves-deepmind-for-anthropic</guid>
+      <pubDate>Mon, 22 Jun 2026 13:59:05 +0000</pubDate>
+      <description>AlphaFold co-lead and Nobel laureate John Jumper is reportedly joining Anthropic, a major frontier-lab talent move from Google DeepMind.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Inception Labs releases Mercury 2 diffusion language model</title>
+      <link>https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-22-inception-labs-mercury-2-diffusion-language-model</guid>
+      <pubDate>Mon, 22 Jun 2026 13:59:05 +0000</pubDate>
+      <description>Mercury 2 is a cloud/API reasoning language model using diffusion-style generation at roughly 1,000 tokens per second, highlighting continued exploration beyond transformer-only serving.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Sakana launches Fugu multi-agent orchestration model</title>
+      <link>https://sakana.ai/fugu-release/</link>
+      <guid isPermaLink="false">2026-06-22-sakana-fugu-multi-agent-orchestration</guid>
+      <pubDate>Mon, 22 Jun 2026 13:59:05 +0000</pubDate>
+      <description>Sakana Fugu presents multiple expert models behind one OpenAI-compatible API, delegating selection, verification, and synthesis as a single orchestration layer.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Noam Shazeer leaves Google to join OpenAI</title>
       <link>https://threadreaderapp.com/thread/2067400851438932297.html?utm_source=tldrai</link>
