@@ -5,8 +5,67 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 05:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 05:00:42 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>US presses Meta to submit AI models for federal review</title>
+      <guid isPermaLink="false">2026-06-24-us-presses-meta-ai-model-reviews</guid>
+      <pubDate>Wed, 24 Jun 2026 13:20:27 +0000</pubDate>
+      <description>The Trump administration is pressing Meta to join other major US AI developers in voluntary federal model reviews, signaling rising scrutiny of frontier-model security risks.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>ByteDance unveils Seedance 2.5 video model</title>
+      <link>https://www.cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-24-bytedance-seedance-2-5-video-model</guid>
+      <pubDate>Wed, 24 Jun 2026 13:20:27 +0000</pubDate>
+      <description>Seedance 2.5 can generate 30-second video clips from a single prompt and is slated for China availability, keeping ByteDance in the front tier of AI video competition.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Mistral releases OCR 4 for document intelligence</title>
+      <link>https://mistral.ai/news/ocr-4/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-24-mistral-ocr-4-document-intelligence</guid>
+      <pubDate>Wed, 24 Jun 2026 13:20:27 +0000</pubDate>
+      <description>Mistral OCR 4 targets state-of-the-art document understanding with enterprise deployment options, including containerized use and integration into search and structured-data workflows.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic introduces Claude Tag for Slack workflows</title>
+      <link>https://www.anthropic.com/news/introducing-claude-tag?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-24-anthropic-claude-tag-slack-workflows</guid>
+      <pubDate>Wed, 24 Jun 2026 13:20:27 +0000</pubDate>
+      <description>Claude Tag lets enterprise and team users assign Slack-based tasks to Claude, connect it to tools and codebases, and retain context across channels.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>OpenAI starts rolling out Bidirectional Voice Mode</title>
+      <guid isPermaLink="false">2026-06-24-openai-bidirectional-voice-mode-bidi-1</guid>
+      <pubDate>Wed, 24 Jun 2026 13:20:27 +0000</pubDate>
+      <description>OpenAI has begun rolling out a ChatGPT voice mode powered by Bidi 1 that can speak while listening and be interrupted, pointing to more natural real-time AI assistants.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA and AWS add Blackwell GPUs for production AI inference</title>
+      <guid isPermaLink="false">2026-06-24-nvidia-aws-blackwell-ec2-g7-ai-inference</guid>
+      <pubDate>Wed, 24 Jun 2026 13:20:27 +0000</pubDate>
+      <description>NVIDIA and AWS are bringing RTX PRO 4500 Blackwell GPUs to EC2 G7 instances, promising up to 4.6x AI inference performance for production workloads.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>NSA Anthropic talks highlight frontier AI cybersecurity use</title>
+      <guid isPermaLink="false">2026-06-24-nsa-anthropic-frontier-ai-cybersecurity-contract</guid>
+      <pubDate>Wed, 24 Jun 2026 10:22:00 +0000</pubDate>
+      <description>NSA analysts reportedly tested Anthropic tools that quickly identified flaws in classified-network trials, while a broader classified AI contract remains unresolved.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>SpaceX signs up to $6.3B AI compute deal with Reflection AI</title>
       <link>https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html?utm_source=tldrai</link>
