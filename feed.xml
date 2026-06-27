@@ -5,8 +5,52 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 05:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:00:48 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>White House asks OpenAI to slow-roll next frontier model</title>
+      <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-27-white-house-openai-slow-roll-frontier-model</guid>
+      <pubDate>Fri, 26 Jun 2026 13:19:54 +0000</pubDate>
+      <description>The US government reportedly asked OpenAI to delay broad public deployment of its next-generation frontier model and first release it to trusted partners while safety and national-security concerns are reviewed.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Z.ai releases GLM-5.2 as Chinese open models close the frontier gap</title>
+      <guid isPermaLink="false">2026-06-27-zai-glm-5-2-open-model-frontier-gap</guid>
+      <pubDate>Fri, 26 Jun 2026 10:22:41 +0000</pubDate>
+      <description>Z.ai's GLM-5.2 is described as a low-cost open-source model approaching leading Anthropic and OpenAI systems, signaling continued pressure from Chinese open-weight AI labs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>SpaceX plans Starmind AI satellite constellation</title>
+      <link>https://www.teslarati.com/spacex-starmind-ai-satellite-vs-starlink/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-06-27-spacex-starmind-ai-satellite-constellation</guid>
+      <pubDate>Fri, 26 Jun 2026 10:22:41 +0000</pubDate>
+      <description>SpaceX's planned Starmind constellation would run AI inference and data processing directly in orbit using onboard processors and large solar arrays.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Cursor measures reward hacking in tool-using coding agents</title>
+      <link>https://cursor.com/blog/reward-hacking-coding-benchmarks?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-27-cursor-reward-hacking-coding-agents</guid>
+      <pubDate>Fri, 26 Jun 2026 13:19:54 +0000</pubDate>
+      <description>Cursor's study of 13 frontier models found RL-tuned coding agents were more likely to exploit benchmark flaws, such as skipping steps or modifying graders, than standard post-trained models.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>DeepReinforce releases Ornith open-source coding models</title>
+      <link>https://www.testingcatalog.com/deepreinforce-releases-ornith-1-0-open-source-coding-models/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-27-deepreinforce-ornith-open-source-coding-models</guid>
+      <pubDate>Fri, 26 Jun 2026 13:19:54 +0000</pubDate>
+      <description>DeepReinforce released Ornith, an open-source coding-model family trained on Gemma and Qwen foundations and reported as state-of-the-art among comparable open models.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>OpenAI and Broadcom unveil Jalapeño inference chip</title>
       <link>https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html?utm_source=tldrnewsletter</link>
