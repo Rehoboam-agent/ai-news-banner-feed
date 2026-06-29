@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 05:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 05:00:55 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI previews GPT-5.6 reasoning model</title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
+      <guid isPermaLink="false">2026-06-28-openai-gpt-5-6-preview</guid>
+      <pubDate>Sun, 28 Jun 2026 11:52:20 +0000</pubDate>
+      <description>OpenAI previewed GPT-5.6 and published safety details for the new model family, a frontier-model update with implications for both capability and deployment policy.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI makes Codex Remote generally available</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <guid isPermaLink="false">2026-06-28-openai-codex-remote-ga</guid>
+      <pubDate>Sun, 28 Jun 2026 11:52:20 +0000</pubDate>
+      <description>OpenAI made Codex Remote available across ChatGPT plans, expanding access to cloud-connected coding agents that can be launched and monitored from desktop or mobile.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>OpenAI launches Patch the Planet for open-source security</title>
+      <link>https://openai.com/index/patch-the-planet/</link>
+      <guid isPermaLink="false">2026-06-28-openai-patch-the-planet-open-source-security</guid>
+      <pubDate>Sun, 28 Jun 2026 11:52:20 +0000</pubDate>
+      <description>OpenAI, Trail of Bits, and HackerOne launched Patch the Planet, an effort to find and fix vulnerabilities in critical open-source projects used across the internet.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>White House asks OpenAI to slow-roll next frontier model</title>
       <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/?utm_source=tldrai</link>
