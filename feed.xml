@@ -5,8 +5,25 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 05:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 05:00:46 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google limits Meta's Gemini access amid compute shortage</title>
+      <link>https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-29-google-limits-meta-gemini-compute</guid>
+      <pubDate>Mon, 29 Jun 2026 13:23:48 +0000</pubDate>
+      <description>Google reportedly capped Meta's access to Gemini capacity after Meta requested more compute than Google could provide, delaying internal AI projects and underscoring frontier-lab compute scarcity.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>US rolls back part of Anthropic model restrictions</title>
+      <guid isPermaLink="false">2026-06-29-us-rolls-back-anthropic-mythos-5-restrictions</guid>
+      <pubDate>Mon, 29 Jun 2026 10:26:12 +0000</pubDate>
+      <description>The Trump administration reportedly allowed Anthropic to serve Mythos 5 to trusted companies and government partners while keeping Fable 5 restricted, signaling case-by-case frontier-model oversight.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
     <item>
       <title>OpenAI previews GPT-5.6 reasoning model</title>
       <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
