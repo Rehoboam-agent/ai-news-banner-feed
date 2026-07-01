@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 05:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:00:50 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Cognition introduces Devin Fusion coding-agent harness</title>
+      <link>https://cognition.com/blog/devin-fusion?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-30-cognition-devin-fusion-coding-agent-harness</guid>
+      <pubDate>Tue, 30 Jun 2026 13:50:05 +0000</pubDate>
+      <description>Cognition introduced Devin Fusion, a multi-model coding-agent system that routes work between frontier and lower-cost models, reporting top-tier benchmark performance with substantially lower costs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>DeepSeek open-sources DSpark inference framework</title>
+      <link>https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-30-deepseek-dspark-llm-inference-framework</guid>
+      <pubDate>Tue, 30 Jun 2026 13:50:05 +0000</pubDate>
+      <description>DeepSeek open-sourced DSpark, an inference-acceleration framework that uses draft generation and verification to speed LLM responses without changing model outputs.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Google Cloud adds SandboxAQ science AI models</title>
+      <link>https://thenextweb.com/news/google-cloud-science-ai-models-sandboxaq?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-06-30-google-cloud-sandboxaq-science-ai-models</guid>
+      <pubDate>Tue, 30 Jun 2026 13:50:05 +0000</pubDate>
+      <description>Google Cloud will offer SandboxAQ specialist quantitative models trained on scientific equations and laboratory data, expanding enterprise access to domain-specific AI for research and industry.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Meta releases Brain2Qwerty v2 for non-invasive brain-to-text</title>
+      <link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-06-30-meta-brain2qwerty-v2-noninvasive-brain-text</guid>
+      <pubDate>Tue, 30 Jun 2026 10:23:34 +0000</pubDate>
+      <description>Meta released Brain2Qwerty v2, a non-invasive brain-to-text model reporting 61% word accuracy from magnetoencephalography recordings along with code and dataset resources.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Google limits Meta's Gemini access amid compute shortage</title>
       <link>https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html?utm_source=tldrai</link>
