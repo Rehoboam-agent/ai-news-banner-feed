@@ -5,8 +5,42 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 05:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:00:33 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic launches lower-cost Claude Sonnet 5</title>
+      <link>https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-01-anthropic-claude-sonnet-5</guid>
+      <pubDate>Wed, 01 Jul 2026 13:20:40 +0000</pubDate>
+      <description>Anthropic introduced Claude Sonnet 5, a lower-cost model positioned for enterprise agentic work with stronger planning, tool-use, and coding capabilities.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>US lifts export controls on Claude Fable</title>
+      <guid isPermaLink="false">2026-07-01-us-lifts-claude-fable-export-controls</guid>
+      <pubDate>Wed, 01 Jul 2026 13:20:40 +0000</pubDate>
+      <description>The Department of Commerce lifted export controls on Claude Fable after Anthropic agreed to address safeguard workarounds, marking another major frontier-model policy shift.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Meituan launches LongCat-2.0 1.6T parameter model</title>
+      <guid isPermaLink="false">2026-07-01-meituan-longcat-2-0-model</guid>
+      <pubDate>Wed, 01 Jul 2026 13:20:40 +0000</pubDate>
+      <description>Meituan launched LongCat-2.0, a 1.6-trillion-parameter mixture-of-experts model aimed at agentic coding, multi-step workflows, and long-context processing.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>AWS invests $1B in forward-deployed AI engineering unit</title>
+      <link>https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-01-aws-forward-deployed-ai-engineering-unit</guid>
+      <pubDate>Wed, 01 Jul 2026 10:24:06 +0000</pubDate>
+      <description>Amazon is investing $1 billion in an AWS forward-deployed engineering unit to embed AI engineers with customers and accelerate enterprise AI deployments.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Cognition introduces Devin Fusion coding-agent harness</title>
       <link>https://cognition.com/blog/devin-fusion?utm_source=tldrai</link>
