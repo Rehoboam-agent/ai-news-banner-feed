@@ -5,8 +5,25 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 05:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:00:43 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI proposes US government stakes in leading AI labs</title>
+      <link>https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-02-openai-proposes-us-government-ai-lab-stakes</guid>
+      <pubDate>Thu, 02 Jul 2026 13:23:35 +0000</pubDate>
+      <description>OpenAI reportedly proposed giving the US government a 5% stake in OpenAI and other leading AI developers, a major policy-and-governance bid to share upside and ease Washington pressure.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Meta plans AI compute cloud business</title>
+      <guid isPermaLink="false">2026-07-02-meta-ai-compute-cloud-business</guid>
+      <pubDate>Thu, 02 Jul 2026 13:23:35 +0000</pubDate>
+      <description>Meta is reportedly developing a cloud infrastructure business to sell surplus AI compute and hosted model access, turning its frontier-scale data-center buildout into an external AI platform.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Anthropic launches lower-cost Claude Sonnet 5</title>
       <link>https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo?utm_source=tldrnewsletter</link>
