@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 05:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 05:00:56 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic explores Samsung partnership for custom AI chips</title>
+      <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-03-anthropic-samsung-custom-ai-chip-talks</guid>
+      <pubDate>Fri, 03 Jul 2026 13:20:37 +0000</pubDate>
+      <description>Anthropic reportedly discussed a custom AI chip collaboration with Samsung as it looks to diversify its compute stack beyond Google, Amazon, and Nvidia.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Cloudflare sets deadline to separate search and AI training crawlers</title>
+      <link>https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-03-cloudflare-ai-crawler-separation-deadline</guid>
+      <pubDate>Fri, 03 Jul 2026 10:23:11 +0000</pubDate>
+      <description>Cloudflare says AI crawlers must separate search indexing from training collection by September or face blocking, a significant shift in web-content access rules for AI companies.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Microsoft unveils $2.5B Frontier Company for embedded AI engineers</title>
+      <link>https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-03-microsoft-frontier-company-ai-engineers</guid>
+      <pubDate>Fri, 03 Jul 2026 10:23:11 +0000</pubDate>
+      <description>Microsoft announced a $2.5 billion Frontier Company effort to embed AI engineers inside customer organizations to build and operate AI systems.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>OpenAI proposes US government stakes in leading AI labs</title>
       <link>https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html?utm_source=tldrai</link>
