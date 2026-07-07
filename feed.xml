@@ -5,8 +5,17 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 05:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 05:00:42 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Nvidia offers AI startups compute access via revenue-sharing cloud partners</title>
+      <link>https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-06-nvidia-ai-startup-compute-revenue-sharing</guid>
+      <pubDate>Mon, 06 Jul 2026 10:27:17 +0000</pubDate>
+      <description>Nvidia launched a partner program that gives AI startups access to compute through cloud providers in exchange for product and cloud revenue sharing, extending its role in AI infrastructure financing.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Anthropic explores Samsung partnership for custom AI chips</title>
       <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/?utm_source=tldrai</link>
