@@ -5,8 +5,50 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 05:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 05:00:54 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>TeraWulf signs $19B Anthropic AI infrastructure lease</title>
+      <guid isPermaLink="false">2026-07-07-terawulf-anthropic-ai-infrastructure-lease</guid>
+      <pubDate>Tue, 07 Jul 2026 13:21:40 +0000</pubDate>
+      <description>TeraWulf shares surged after a reported $19 billion Anthropic AI infrastructure lease, underscoring the scale of frontier-lab demand for dedicated compute capacity.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Apple plans Broadcom-linked AI server components for 2027</title>
+      <guid isPermaLink="false">2026-07-07-apple-broadcom-ai-server-components</guid>
+      <pubDate>Tue, 07 Jul 2026 13:21:40 +0000</pubDate>
+      <description>Apple reportedly plans to deploy advanced AI servers as early as 2027 using Broadcom-related components, pointing to a larger custom infrastructure push for its AI roadmap.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Anthropic details J-space internal workspace in Claude</title>
+      <link>https://x.com/AnthropicAI/status/2074185348142280912?s=20</link>
+      <guid isPermaLink="false">2026-07-07-anthropic-j-space-claude-workspace</guid>
+      <pubDate>Tue, 07 Jul 2026 13:21:40 +0000</pubDate>
+      <description>Anthropic published research on a J-space or global workspace inside Claude that appears to support deliberate reasoning and model self-monitoring, with implications for interpretability and safety evaluations.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Tencent releases Hy3 295B-parameter open MoE model</title>
+      <guid isPermaLink="false">2026-07-07-tencent-hy3-295b-open-moe-model</guid>
+      <pubDate>Tue, 07 Jul 2026 13:21:40 +0000</pubDate>
+      <description>Tencent released Hy3, a 295-billion-parameter mixture-of-experts model available on Hugging Face and positioned as competitive with much larger flagship open models.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Nvidia's Kyber rack-scale AI system slips to 2028</title>
+      <link>https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-07-nvidia-kyber-rack-ai-system-delay</guid>
+      <pubDate>Tue, 07 Jul 2026 10:22:00 +0000</pubDate>
+      <description>Nvidia's Kyber rack-scale architecture, designed to link 144 Rubin Ultra chips into one giant system, was reportedly delayed by more than a year because of manufacturing limits.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Nvidia offers AI startups compute access via revenue-sharing cloud partners</title>
       <link>https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html?utm_source=tldrnewsletter</link>
