@@ -5,8 +5,41 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 05:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 05:00:41 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI releasing GPT-5.6 Sol, Terra, and Luna</title>
+      <guid isPermaLink="false">2026-07-09-openai-gpt-5-6-sol-terra-luna</guid>
+      <pubDate>Thu, 09 Jul 2026 05:00:41 +0000</pubDate>
+      <description>OpenAI is rolling out the GPT-5.6 family with Sol as the flagship reasoning model, Terra as a balanced everyday model, and Luna as a faster lower-cost option.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Microsoft swaps in own MAI models for some Office apps</title>
+      <guid isPermaLink="false">2026-07-08-microsoft-mai-models-office-apps</guid>
+      <pubDate>Wed, 08 Jul 2026 13:19:45 +0000</pubDate>
+      <description>Microsoft is reportedly replacing OpenAI and Anthropic models with its own MAI models in apps such as Excel and Outlook, signaling a push to reduce frontier-lab dependence and costs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>China weighs restricting access to its strongest AI models</title>
+      <link>https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-08-china-restrict-powerful-ai-model-access</guid>
+      <pubDate>Wed, 08 Jul 2026 10:24:47 +0000</pubDate>
+      <description>Chinese authorities have reportedly discussed limiting access to the country's most powerful AI models, a possible policy shift for widely used Alibaba, ByteDance, and other Chinese model services.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Google adds background tasks and remote MCP to Gemini API agents</title>
+      <guid isPermaLink="false">2026-07-08-google-gemini-api-managed-agents-background-mcp</guid>
+      <pubDate>Wed, 08 Jul 2026 13:19:45 +0000</pubDate>
+      <description>Google announced new Managed Agents capabilities in the Gemini API, including background tasks and remote MCP, moving its agent platform toward asynchronous workers for real applications.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
     <item>
       <title>TeraWulf signs $19B Anthropic AI infrastructure lease</title>
       <guid isPermaLink="false">2026-07-07-terawulf-anthropic-ai-infrastructure-lease</guid>
