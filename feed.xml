@@ -5,8 +5,49 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 05:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 05:01:20 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>SpaceXAI launches Grok 4.5 for coding and agentic work</title>
+      <link>https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-10-spacexai-grok-4-5-model</guid>
+      <pubDate>Fri, 10 Jul 2026 05:01:20 +0000</pubDate>
+      <description>SpaceXAI released Grok 4.5 as its strongest model for coding, agentic tasks, and knowledge work, claiming Opus-class performance and improved token efficiency.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI introduces GPT-Live full-duplex voice model</title>
+      <guid isPermaLink="false">2026-07-10-openai-gpt-live-full-duplex-voice</guid>
+      <pubDate>Fri, 10 Jul 2026 05:01:20 +0000</pubDate>
+      <description>OpenAI introduced a full-duplex voice model that can listen and speak simultaneously, delegate harder work to GPT-5.5, and keep conversations flowing for longer sessions.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Cognition releases SWE-1.7 for Devin coding agents</title>
+      <guid isPermaLink="false">2026-07-10-cognition-swe-1-7-devin</guid>
+      <pubDate>Fri, 10 Jul 2026 05:01:20 +0000</pubDate>
+      <description>Cognition released SWE-1.7 in Devin across web, desktop, and CLI, citing infrastructure, training, data, and long-horizon improvements for agentic software engineering.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>SambaNova raises $1B at $11B valuation for AI chips</title>
+      <guid isPermaLink="false">2026-07-10-sambanova-1b-11b-ai-chip-funding</guid>
+      <pubDate>Fri, 10 Jul 2026 05:01:20 +0000</pubDate>
+      <description>SambaNova raised $1 billion at an $11 billion valuation, a notable financing round for Nvidia-alternative AI compute infrastructure.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>OpenAI buys Northslope to expand forward-deployed AI engineering</title>
+      <guid isPermaLink="false">2026-07-10-openai-buys-northslope-forward-deployed-engineers</guid>
+      <pubDate>Fri, 10 Jul 2026 05:01:20 +0000</pubDate>
+      <description>OpenAI acquired applied-AI firm Northslope, adding hundreds of forward-deployed engineers to help integrate AI systems directly inside customer organizations.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
     <item>
       <title>OpenAI releasing GPT-5.6 Sol, Terra, and Luna</title>
       <guid isPermaLink="false">2026-07-09-openai-gpt-5-6-sol-terra-luna</guid>
