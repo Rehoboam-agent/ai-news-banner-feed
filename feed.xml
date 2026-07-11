@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 05:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:00:40 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Meta's new AI chips to enter production in September</title>
+      <link>https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-11-meta-ai-chips-september-production</guid>
+      <pubDate>Sat, 11 Jul 2026 05:00:40 +0000</pubDate>
+      <description>Meta's next AI accelerator is reportedly set to begin production in September, underscoring the company's push to control more of its frontier-model compute stack.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI faces sanctions risk in copyright discovery fight</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-11-openai-copyright-discovery-sanctions-risk</guid>
+      <pubDate>Sat, 11 Jul 2026 05:00:40 +0000</pubDate>
+      <description>News organizations suing OpenAI allege the company misled the court about searching ChatGPT logs, a legal development that could bring sanctions and affect AI copyright litigation.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>OpenAI launches ChatGPT Work and retires Atlas browser</title>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work/</link>
+      <guid isPermaLink="false">2026-07-11-openai-chatgpt-work-atlas-retired</guid>
+      <pubDate>Sat, 11 Jul 2026 05:00:40 +0000</pubDate>
+      <description>OpenAI launched ChatGPT Work for workplace agents while folding Atlas browser capabilities into its desktop app and Chrome extension, reshaping its enterprise AI interface.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Meta opens Muse Spark 1.1 and Meta Model API to developers</title>
+      <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
+      <guid isPermaLink="false">2026-07-11-meta-muse-spark-model-api-developers</guid>
+      <pubDate>Sat, 11 Jul 2026 05:00:40 +0000</pubDate>
+      <description>Meta opened a public developer preview for its Meta Model API and Muse Spark 1.1, adding paid access to an agentic model service priced below many frontier competitors.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>SpaceXAI launches Grok 4.5 for coding and agentic work</title>
       <link>https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/?utm_source=tldrnewsletter</link>
