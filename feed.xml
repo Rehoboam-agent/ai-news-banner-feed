@@ -5,8 +5,32 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 05:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:02:14 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Apple sues OpenAI over alleged hardware trade-secret theft</title>
+      <guid isPermaLink="false">2026-07-14-apple-sues-openai-hardware-trade-secrets</guid>
+      <pubDate>Tue, 14 Jul 2026 05:02:14 +0000</pubDate>
+      <description>Apple accused OpenAI and former Apple executives of seeking confidential product and manufacturing details for OpenAI's hardware effort, escalating legal pressure around AI-device development.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>OpenAI centralizes key projects under Greg Brockman</title>
+      <guid isPermaLink="false">2026-07-14-openai-greg-brockman-projects-reorg</guid>
+      <pubDate>Tue, 14 Jul 2026 05:02:14 +0000</pubDate>
+      <description>Greg Brockman is reportedly overseeing OpenAI's key projects as the company reorganizes ahead of a potential IPO and intensifying competition from Anthropic and Google.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>OpenAI safety leader reportedly leaving amid reorganization</title>
+      <guid isPermaLink="false">2026-07-14-openai-safety-leader-leaving-reorg</guid>
+      <pubDate>Tue, 14 Jul 2026 05:02:14 +0000</pubDate>
+      <description>OpenAI's head of safety systems is reportedly departing, with an interim replacement named, adding to scrutiny of safety governance during the lab's latest reorganization.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>Meta's new AI chips to enter production in September</title>
       <link>https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/?utm_source=tldrai</link>
