@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 05:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:00:18 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>xAI Grok Build CLI found uploading repositories unredacted</title>
+      <link>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-15-xai-grok-build-cli-repo-upload</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:18 +0000</pubDate>
+      <description>Analysis of xAI's official Grok Build coding CLI found that files read by the tool, including whole repositories, were transmitted verbatim and unredacted to xAI storage, raising security concerns for agentic coding tools.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Cloudflare gives OpenAI network signals covering 20% of the web</title>
+      <link>https://ppc.land/cloudflare-gives-openai-network-signals-covering-20-of-the-web/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-15-cloudflare-openai-web-network-signals</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:18 +0000</pubDate>
+      <description>Cloudflare is providing OpenAI with network signals spanning a large share of web traffic to improve the freshness and accuracy of AI-generated answers, highlighting infrastructure partnerships behind AI search and assistants.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Anthropic measures how Claude's values vary by language</title>
+      <link>https://www.anthropic.com/research/claude-values-models-languages</link>
+      <guid isPermaLink="false">2026-07-15-anthropic-claude-values-language-study</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:18 +0000</pubDate>
+      <description>Anthropic published research measuring how Claude models express different values and conversational traits across languages, adding a quantitative tool for tracking model character, drift, and fairness.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Apple sues OpenAI over alleged hardware trade-secret theft</title>
       <guid isPermaLink="false">2026-07-14-apple-sues-openai-hardware-trade-secrets</guid>
