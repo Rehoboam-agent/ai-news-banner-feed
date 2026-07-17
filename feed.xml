@@ -5,8 +5,60 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 05:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:00:51 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Thinking Machines releases Inkling open model</title>
+      <link>https://thinkingmachines.ai/news/introducing-inkling/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-17-thinking-machines-inkling-open-model</guid>
+      <pubDate>Fri, 17 Jul 2026 05:00:51 +0000</pubDate>
+      <description>Thinking Machines Lab released Inkling, its first open model, a multimodal mixture-of-experts system with a one-million-token context window and customization through Tinker.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic reportedly prepares investor meetings for mega-IPO</title>
+      <link>https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-17-anthropic-mega-ipo-investor-meetings</guid>
+      <pubDate>Fri, 17 Jul 2026 05:00:51 +0000</pubDate>
+      <description>Anthropic is reportedly lining up investor meetings for a potential IPO after a funding round that valued the AI lab near $965 billion, testing public-market appetite for frontier labs.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>OpenAI trains GPT-Red to automate model red-teaming</title>
+      <guid isPermaLink="false">2026-07-17-openai-gpt-red-safety-testing</guid>
+      <pubDate>Fri, 17 Jul 2026 05:00:51 +0000</pubDate>
+      <description>OpenAI trained GPT-Red to generate adversarial prompts and surface model vulnerabilities at scale, reporting reduced failures when its attacks were folded back into training.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Perplexity launches secure sandboxes for AI agents</title>
+      <link>https://www.perplexity.ai/hub/blog/secure-sandboxes-for-agents?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-17-perplexity-space-agent-sandboxes</guid>
+      <pubDate>Fri, 17 Jul 2026 05:00:51 +0000</pubDate>
+      <description>Perplexity introduced SPACE, a sandbox platform meant to run AI agents on sensitive tasks with stronger isolation, security, and operational controls.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>China tightens rules on companion chatbots</title>
+      <guid isPermaLink="false">2026-07-17-china-companion-chatbot-rules</guid>
+      <pubDate>Fri, 17 Jul 2026 05:00:51 +0000</pubDate>
+      <description>China introduced rules forbidding companion chatbots from encouraging emotional dependence or relationships with minors, and requiring emergency-contact alerts during detected crises.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA expands Jetson Thor for edge robotics AI</title>
+      <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-17-nvidia-jetson-thor-edge-robotics-ai</guid>
+      <pubDate>Fri, 17 Jul 2026 05:00:51 +0000</pubDate>
+      <description>NVIDIA introduced Blackwell-powered Jetson Thor T3000 and T2000 modules for running robotics, visual AI, and agent workloads at the edge.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>New York becomes first U.S. state to ban AI data centers</title>
       <link>https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html?utm_source=tldrnewsletter</link>
