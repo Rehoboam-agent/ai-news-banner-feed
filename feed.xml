@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 05:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 05:01:13 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Moonshot AI releases Kimi K3 long-context model</title>
+      <link>https://www.kimi.com/blog/kimi-k3?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-18-moonshot-kimi-k3-long-context-model</guid>
+      <pubDate>Sat, 18 Jul 2026 05:01:13 +0000</pubDate>
+      <description>Moonshot AI released Kimi K3, a model with a one-million-token context window, faster long-context decoding, and optimizations for agentic coding, with open weights scheduled.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Google Gemini 3.5 Pro reportedly delayed</title>
+      <link>https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-18-google-gemini-3-5-pro-delay</guid>
+      <pubDate>Sat, 18 Jul 2026 05:01:13 +0000</pubDate>
+      <description>Google reportedly delayed Gemini 3.5 Pro after the model fell short of internal goals, particularly in coding, while it remains in partner testing alongside other Gemini releases.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Fireworks reportedly reaches $17.5B valuation</title>
+      <link>https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-18-fireworks-17-5b-valuation</guid>
+      <pubDate>Sat, 18 Jul 2026 05:01:13 +0000</pubDate>
+      <description>Nvidia-backed Fireworks reportedly reached a $17.5 billion valuation as enterprises seek cheaper model-serving options and open-model infrastructure.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA releases Nemotron 3 embedding models</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-18-nvidia-nemotron-3-embed-models</guid>
+      <pubDate>Sat, 18 Jul 2026 05:01:13 +0000</pubDate>
+      <description>NVIDIA released three open Nemotron 3 embedding models for RAG, agentic retrieval, code search, and memory, led by an 8B model ranking highly on retrieval benchmarks.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>Thinking Machines releases Inkling open model</title>
       <link>https://thinkingmachines.ai/news/introducing-inkling/?utm_source=tldrai</link>
