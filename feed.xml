@@ -5,8 +5,41 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 05:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:00:39 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Alibaba announces 2.4T-parameter Qwen3.8 model</title>
+      <guid isPermaLink="false">2026-07-21-alibaba-qwen3-8-2-4t-model</guid>
+      <pubDate>Tue, 21 Jul 2026 05:00:39 +0000</pubDate>
+      <description>Alibaba announced Qwen3.8, a 2.4-trillion-parameter model now in preview through its Token Plan and Qoder products, with an open-weight release planned.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Meta and Anthropic reportedly discuss $10B compute deal</title>
+      <guid isPermaLink="false">2026-07-21-meta-anthropic-10b-compute-deal</guid>
+      <pubDate>Tue, 21 Jul 2026 05:00:39 +0000</pubDate>
+      <description>Meta reportedly discussed leasing computing power to Anthropic in a deal worth up to $10 billion over two years, underscoring continuing frontier-lab demand for scarce AI compute.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>SpaceX reportedly in talks to supply Pentagon AI compute</title>
+      <guid isPermaLink="false">2026-07-21-spacex-pentagon-ai-compute</guid>
+      <pubDate>Tue, 21 Jul 2026 05:00:39 +0000</pubDate>
+      <description>SpaceX is reportedly in talks to provide the U.S. Defense Department with AI computing capacity worth up to several billion dollars as the Pentagon pursues high-end chips.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Alibaba open-sources AI chip software stack to challenge CUDA lock-in</title>
+      <link>https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-21-alibaba-sail-ai-chip-stack</guid>
+      <pubDate>Tue, 21 Jul 2026 05:00:39 +0000</pubDate>
+      <description>Alibaba open-sourced its SAIL software stack for AI chips, aiming to lower migration barriers for developers currently tied to NVIDIA's CUDA ecosystem.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Moonshot AI releases Kimi K3 long-context model</title>
       <link>https://www.kimi.com/blog/kimi-k3?utm_source=tldrai</link>
