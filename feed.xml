@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 05:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 05:01:04 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>AMD unveils Helios rack-scale AI system for Azure</title>
+      <link>https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-22-amd-helios-rack-scale-ai-system</guid>
+      <pubDate>Wed, 22 Jul 2026 05:01:04 +0000</pubDate>
+      <description>AMD unveiled Helios, a rack-scale AI system combining its GPUs, CPUs, networking, and software, with Microsoft planning to deploy it in Azure data centers as AMD challenges NVIDIA's AI infrastructure stack.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Z.ai starts gigawatt-scale AI data center without NVIDIA GPUs</title>
+      <link>https://thenextweb.com/news/z-ai-data-centre-chinese-made-chips-nvidia?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-22-zai-gigawatt-ai-data-center-no-nvidia</guid>
+      <pubDate>Wed, 22 Jul 2026 05:01:04 +0000</pubDate>
+      <description>Z.ai reportedly began partial operations at a one-gigawatt AI data center powered by Chinese-made chips, expanding compute for GLM models while reducing reliance on NVIDIA hardware.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Google reportedly designs Gemini-specific AI chip</title>
+      <link>https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-22-google-gemini-specific-ai-chip</guid>
+      <pubDate>Wed, 22 Jul 2026 05:01:04 +0000</pubDate>
+      <description>Google is reportedly developing an AI chip with Gemini's neural architecture baked into silicon, trading generality for lower inference overhead and a tighter model-hardware stack.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Moonshot launches Kimi Work desktop agent</title>
+      <link>https://www.kimi.com/products/kimi-work?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-22-moonshot-kimi-work-desktop-agent</guid>
+      <pubDate>Wed, 22 Jul 2026 05:01:04 +0000</pubDate>
+      <description>Moonshot AI launched Kimi Work, a Windows and macOS desktop agent that can connect to local files, coordinate specialized agents, and automate document and spreadsheet workflows in the background.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
     <item>
       <title>Alibaba announces 2.4T-parameter Qwen3.8 model</title>
       <guid isPermaLink="false">2026-07-21-alibaba-qwen3-8-2-4t-model</guid>
