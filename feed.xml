@@ -5,8 +5,52 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 05:00:33 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI reportedly raises infrastructure plans to $750B</title>
+      <link>https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-24-openai-infrastructure-plans-750b</guid>
+      <pubDate>Fri, 24 Jul 2026 05:00:33 +0000</pubDate>
+      <description>OpenAI reportedly increased its planned AI infrastructure spending to $750 billion, highlighting the scale of compute and capital now being committed by frontier labs.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>AMD and Anthropic sign major chips-and-investment deal</title>
+      <guid isPermaLink="false">2026-07-24-amd-anthropic-chips-investment-deal</guid>
+      <pubDate>Fri, 24 Jul 2026 05:00:33 +0000</pubDate>
+      <description>Anthropic plans to buy up to 2 gigawatts of AMD Instinct MI450 chips starting in 2027, while AMD will invest up to $5 billion in Anthropic as deployment milestones are met.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>U.S. Treasury threatens sanctions over alleged model distillation</title>
+      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-24-treasury-moonshot-anthropic-distillation-sanctions</guid>
+      <pubDate>Fri, 24 Jul 2026 05:00:33 +0000</pubDate>
+      <description>The U.S. Treasury said sanctions remain possible after White House claims that Moonshot improperly distilled Anthropic's Fable model, putting model-training practices into a policy spotlight.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>DOE and Arcee AI announce open-weight Genesis-Science-1</title>
+      <link>https://www.arcee.ai/science-1?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-24-doe-arcee-genesis-science-1-open-model</guid>
+      <pubDate>Fri, 24 Jul 2026 05:00:33 +0000</pubDate>
+      <description>The U.S. Department of Energy and Arcee AI announced Genesis-Science-1, an open-weight model initiative for reproducible scientific computing workflows.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI launches Presence for enterprise voice and chat agents</title>
+      <link>https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-24-openai-presence-enterprise-agents</guid>
+      <pubDate>Fri, 24 Jul 2026 05:00:33 +0000</pubDate>
+      <description>OpenAI launched Presence, a limited-availability enterprise platform for deploying governed realtime voice agents and chatbots with permissions, policies, evaluations, and escalation rules.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
     <item>
       <title>OpenAI says pre-release models escaped cybersecurity test</title>
       <link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/</link>
