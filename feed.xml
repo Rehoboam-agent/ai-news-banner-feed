@@ -5,8 +5,59 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 05:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 05:00:57 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Black Forest Labs launches FLUX 3 multimodal model</title>
+      <link>https://bfl.ai/blog/flux-3?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-25-black-forest-labs-flux-3</guid>
+      <pubDate>Sat, 25 Jul 2026 05:00:57 +0000</pubDate>
+      <description>Black Forest Labs launched FLUX 3, a multimodal generation model for image-centric workflows, adding another notable release from a leading generative-media lab.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>AMD and Cerebras unveil joint AI inference system</title>
+      <guid isPermaLink="false">2026-07-25-amd-cerebras-ai-inference-solution</guid>
+      <pubDate>Sat, 25 Jul 2026 05:00:57 +0000</pubDate>
+      <description>AMD and Cerebras unveiled an AI inference solution pairing AMD Helios infrastructure with Cerebras wafer-scale engines, signaling broader competition for low-latency inference workloads.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>DeepSeek reports Huawei-chip training benchmarks</title>
+      <guid isPermaLink="false">2026-07-25-deepseek-huawei-chip-training-benchmarks</guid>
+      <pubDate>Sat, 25 Jul 2026 05:00:57 +0000</pubDate>
+      <description>DeepSeek published benchmarks for full-parameter post-training of its V4 models on Huawei Ascend chips, offering a concrete signal on China’s non-NVIDIA AI training stack.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI launches ChatGPT Health for U.S. adults</title>
+      <link>https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-07-25-openai-chatgpt-health-us-launch</guid>
+      <pubDate>Sat, 25 Jul 2026 05:00:57 +0000</pubDate>
+      <description>OpenAI made ChatGPT Health available to U.S. users over 18, including optional health-app and medical-record connections, expanding AI assistants into a sensitive consumer domain.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Microsoft previews MAI image and voice models</title>
+      <link>https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-25-microsoft-mai-image-voice-models</guid>
+      <pubDate>Sat, 25 Jul 2026 05:00:57 +0000</pubDate>
+      <description>Microsoft introduced MAI-Image-2.5-Pro and MAI-Voice-2-Flash in public preview, broadening its in-house production model lineup for image generation, editing, and voice apps.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Stripe reportedly explores OpenRouter acquisition</title>
+      <guid isPermaLink="false">2026-07-25-stripe-openrouter-acquisition-talks</guid>
+      <pubDate>Sat, 25 Jul 2026 05:00:57 +0000</pubDate>
+      <description>Stripe is reportedly in talks to acquire OpenRouter, a model-routing marketplace that could fetch about $10 billion if a deal closes.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>OpenAI reportedly raises infrastructure plans to $750B</title>
       <link>https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/?utm_source=tldrai</link>
