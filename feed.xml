@@ -5,8 +5,25 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 05:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 05:00:59 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic launches Claude Opus 5</title>
+      <link>https://www.anthropic.com/news/claude-opus-5?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-28-anthropic-claude-opus-5</guid>
+      <pubDate>Tue, 28 Jul 2026 05:00:59 +0000</pubDate>
+      <description>Anthropic launched Claude Opus 5, a more efficient frontier model approaching Claude Fable 5 capabilities at half the price, and made it the default model for Claude Max.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA reportedly considers $250B backstop for OpenAI data centers</title>
+      <guid isPermaLink="false">2026-07-28-nvidia-openai-250b-data-center-backstop</guid>
+      <pubDate>Tue, 28 Jul 2026 05:00:59 +0000</pubDate>
+      <description>NVIDIA is reportedly in talks to guarantee roughly $250 billion in financing for a 10-gigawatt OpenAI data-center project being developed by SoftBank's energy subsidiary.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Black Forest Labs launches FLUX 3 multimodal model</title>
       <link>https://bfl.ai/blog/flux-3?utm_source=tldrai</link>
