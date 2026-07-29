@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 05:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 05:00:56 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Moonshot AI releases Kimi K3 open weights</title>
+      <link>https://threadreaderapp.com/thread/2081760186235289764.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-29-moonshot-kimi-k3-open-weights</guid>
+      <pubDate>Wed, 29 Jul 2026 05:00:56 +0000</pubDate>
+      <description>Moonshot AI released the weights and technical report for Kimi K3, a 2.8-trillion-parameter mixture-of-experts model, alongside more of its agent-training infrastructure.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA partners with Safe Superintelligence on Rubin-scale compute</title>
+      <link>https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership</link>
+      <guid isPermaLink="false">2026-07-29-nvidia-safe-superintelligence-partnership</guid>
+      <pubDate>Wed, 29 Jul 2026 05:00:56 +0000</pubDate>
+      <description>NVIDIA invested in Ilya Sutskever's Safe Superintelligence and formed a long-term partnership giving the secretive frontier lab access to Vera Rubin systems intended to increase its compute by an order of magnitude.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Microsoft launches MAI-Cyber-1-Flash security model</title>
+      <link>https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-29-microsoft-mai-cyber-1-flash</guid>
+      <pubDate>Wed, 29 Jul 2026 05:00:56 +0000</pubDate>
+      <description>Microsoft launched MAI-Cyber-1-Flash, a specialized cybersecurity model designed for fast security analysis and defensive workflows.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>Anthropic launches Claude Opus 5</title>
       <link>https://www.anthropic.com/news/claude-opus-5?utm_source=tldrai</link>
