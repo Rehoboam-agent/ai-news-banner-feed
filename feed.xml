@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 05:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:01:54 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Frontier AI employees call for tools to slow automated AI development</title>
+      <link>https://www.pacingthefrontier.com/</link>
+      <guid isPermaLink="false">2026-07-30-frontier-ai-employees-pacing</guid>
+      <pubDate>Thu, 30 Jul 2026 05:01:54 +0000</pubDate>
+      <description>More than 1,200 employees across leading frontier labs called for a U.S.-backed international effort to build technical and governance mechanisms that could deliberately slow automated AI development if risks outpace oversight.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Claude finds major weaknesses in cryptographic algorithms</title>
+      <link>https://www.anthropic.com/research/discovering-cryptographic-weaknesses</link>
+      <guid isPermaLink="false">2026-07-30-anthropic-claude-cryptography</guid>
+      <pubDate>Thu, 30 Jul 2026 05:01:54 +0000</pubDate>
+      <description>Anthropic's Claude Mythos Preview mostly autonomously improved the best-known attack on the HAWK post-quantum signature candidate and accelerated an attack on reduced-round AES, demonstrating consequential new AI cryptanalysis capabilities without affecting current production systems.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Moonshot AI releases Kimi K3 open weights</title>
       <link>https://threadreaderapp.com/thread/2081760186235289764.html?utm_source=tldrai</link>
