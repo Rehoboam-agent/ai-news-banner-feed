@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 05:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:01:49 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google DeepMind dismantles the original AlphaFold team</title>
+      <link>https://thenextweb.com/news/deepmind-alphafold-team-dismantled-gemini-anthropic?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-30-deepmind-dismantles-alphafold-team</guid>
+      <pubDate>Thu, 30 Jul 2026 14:05:53 +0000</pubDate>
+      <description>Google DeepMind reassigned most authors of the original AlphaFold papers, while nearly a quarter have left for organizations including Isomorphic Labs and Anthropic, marking a shift toward Gemini-powered AI-scientist work.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>OpenAI triples GPT-5.6 Sol's ARC-AGI-3 score through agent-harness changes</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-07-30-openai-arc-agi-3-harness-gains</guid>
+      <pubDate>Thu, 30 Jul 2026 14:05:53 +0000</pubDate>
+      <description>OpenAI reported that enabling retained reasoning and compaction in ChatGPT and Codex tripled GPT-5.6 Sol's ARC-AGI-3 score while cutting output tokens sixfold, highlighting the growing role of agent-harness design in benchmark performance.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Frontier AI employees call for tools to slow automated AI development</title>
       <link>https://www.pacingthefrontier.com/</link>
