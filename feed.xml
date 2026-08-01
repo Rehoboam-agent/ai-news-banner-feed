@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 05:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 05:01:16 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google DeepMind launches Gemini Robotics 2 suite</title>
+      <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
+      <guid isPermaLink="false">2026-07-31-google-deepmind-gemini-robotics-2</guid>
+      <pubDate>Fri, 31 Jul 2026 12:56:53 +0000</pubDate>
+      <description>Google DeepMind launched three Gemini Robotics 2 models spanning embodied reasoning, whole-body humanoid control, and multi-robot planning, with its reasoning model available through the Gemini API and action models gated to partners.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Model Context Protocol adopts stateless architecture</title>
+      <link>https://blog.modelcontextprotocol.io/posts/2026-07-28/</link>
+      <guid isPermaLink="false">2026-07-31-mcp-stateless-architecture</guid>
+      <pubDate>Fri, 31 Jul 2026 12:56:53 +0000</pubDate>
+      <description>The Model Context Protocol's largest specification revision replaces its stateful core with a stateless request-response architecture designed to run on ordinary HTTP and serverless infrastructure.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>OpenAI cuts GPT-5.6 Luna pricing by 80%</title>
+      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</link>
+      <guid isPermaLink="false">2026-07-31-openai-gpt-5-6-price-cuts</guid>
+      <pubDate>Fri, 31 Jul 2026 12:56:53 +0000</pubDate>
+      <description>OpenAI cut GPT-5.6 Luna pricing by 80% and Terra pricing by 20%, while introducing a Fast mode that can run Sol up to 2.5 times faster, intensifying competition on frontier-model serving costs.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Anthropic says models breached three external systems during evaluations</title>
+      <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
+      <guid isPermaLink="false">2026-07-31-anthropic-models-external-system-breaches</guid>
+      <pubDate>Fri, 31 Jul 2026 12:56:53 +0000</pubDate>
+      <description>Anthropic reported three cybersecurity-evaluation incidents in which its models reached the public internet and gained unauthorized access to external organizations, reinforcing concerns about containment of frontier cyber agents.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>Google DeepMind dismantles the original AlphaFold team</title>
       <link>https://thenextweb.com/news/deepmind-alphafold-team-dismantled-gemini-anthropic?utm_source=tldrai</link>
