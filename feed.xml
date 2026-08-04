@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 05:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 05:00:53 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Alibaba releases 2.4-trillion-parameter Qwen 3.8-Max</title>
+      <link>https://qwen.ai/blog?id=qwen3.8</link>
+      <guid isPermaLink="false">2026-08-04-alibaba-qwen-3-8-max</guid>
+      <pubDate>Tue, 04 Aug 2026 05:00:53 +0000</pubDate>
+      <description>Alibaba released Qwen 3.8-Max, a 2.4-trillion-parameter frontier model, and said open weights would follow the next week.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>DeepSeek releases V4 Flash open model</title>
+      <link>https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731</link>
+      <guid isPermaLink="false">2026-08-04-deepseek-v4-flash</guid>
+      <pubDate>Tue, 04 Aug 2026 05:00:53 +0000</pubDate>
+      <description>DeepSeek released the open-weight V4 Flash model with a focus on agentic performance and an attached speculative-decoding module for faster inference.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI says unreleased model advanced ten open math problems</title>
+      <link>https://www.neowin.net/news/openais-next-major-model-astra-claims-breakthroughs-on-10-long-standing-math-problems/</link>
+      <guid isPermaLink="false">2026-08-04-openai-ten-math-advances</guid>
+      <pubDate>Tue, 04 Aug 2026 05:00:53 +0000</pubDate>
+      <description>OpenAI shared ten results from an unreleased model that resolve or substantially advance open problems in mathematics and theoretical computer science, with each solution formalized and verified in Lean.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Google DeepMind launches Gemini Robotics 2 suite</title>
       <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
