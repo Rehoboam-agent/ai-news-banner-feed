@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 05:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 05:02:12 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>White House reviews voluntary AI model cybersecurity-testing framework</title>
+      <link>https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html</link>
+      <guid isPermaLink="false">2026-08-05-white-house-ai-cybersecurity-testing-framework</guid>
+      <pubDate>Wed, 05 Aug 2026 05:02:12 +0000</pubDate>
+      <description>The White House is reviewing a voluntary framework under which AI developers including OpenAI, Google, and Anthropic could share models with the U.S. government for classified cybersecurity-risk assessments.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Cloudflare launches persistent virtual computers for AI agents</title>
+      <link>https://blog.cloudflare.com/cloudflare-computer/</link>
+      <guid isPermaLink="false">2026-08-05-cloudflare-computer-ai-agents</guid>
+      <pubDate>Wed, 05 Aug 2026 05:02:12 +0000</pubDate>
+      <description>Cloudflare launched Cloudflare Computer, a persistent virtual file system and pluggable execution layer that gives AI agents scalable access to isolates, container sandboxes, and web browsers.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Alibaba releases 2.4-trillion-parameter Qwen 3.8-Max</title>
       <link>https://qwen.ai/blog?id=qwen3.8</link>
