@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 05:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:00:23 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic reportedly signs $10B cloud deal with Volta</title>
+      <link>https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/</link>
+      <guid isPermaLink="false">2026-08-06-anthropic-volta-10b-cloud-deal</guid>
+      <pubDate>Thu, 06 Aug 2026 05:00:23 +0000</pubDate>
+      <description>Anthropic reportedly agreed to buy six years of capacity from AI infrastructure startup Volta, centered on a planned 133-megawatt Norway data center using NVIDIA Vera Rubin systems.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA releases Alpamayo 2 Super for autonomous vehicles</title>
+      <link>https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</link>
+      <guid isPermaLink="false">2026-08-06-nvidia-alpamayo-2-super</guid>
+      <pubDate>Thu, 06 Aug 2026 05:00:23 +0000</pubDate>
+      <description>NVIDIA released its Alpamayo 2 Super reasoning model under a commercial license, offering inspectable driving decisions for robotaxis and other autonomous vehicles.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Cloudflare introduces programmable wallets for AI agents</title>
+      <link>https://blog.cloudflare.com/wallets/</link>
+      <guid isPermaLink="false">2026-08-06-cloudflare-wallets-ai-agents</guid>
+      <pubDate>Thu, 06 Aug 2026 05:00:23 +0000</pubDate>
+      <description>Cloudflare announced programmable wallets that combine payments and verifiable identity, enabling AI agents to buy APIs and content through the x402 protocol within configurable safety limits.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Mistral releases Shieldstral multimodal safety classifier</title>
+      <link>https://mistral.ai/news/shieldstral/</link>
+      <guid isPermaLink="false">2026-08-06-mistral-shieldstral</guid>
+      <pubDate>Thu, 06 Aug 2026 05:00:23 +0000</pubDate>
+      <description>Mistral released Shieldstral, a 3-billion-parameter open-weight classifier that applies plain-language policies to text and images at inference time and reports calibrated safety scores.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>White House reviews voluntary AI model cybersecurity-testing framework</title>
       <link>https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html</link>
