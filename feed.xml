@@ -5,8 +5,51 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:01:25 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Researchers use AI to design viable viruses not found in nature</title>
+      <guid isPermaLink="false">2026-08-09-ai-designed-viable-viruses</guid>
+      <pubDate>Sun, 09 Aug 2026 05:01:25 +0000</pubDate>
+      <description>Researchers trained AI on DNA structural patterns, used it to design novel viral genomes, and produced viruses capable of infecting bacteria, demonstrating a consequential new synthetic-biology capability.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Tesla and SpaceX plan $16.8B Texas Terafab</title>
+      <guid isPermaLink="false">2026-08-09-tesla-spacex-texas-terafab</guid>
+      <pubDate>Sun, 09 Aug 2026 05:01:25 +0000</pubDate>
+      <description>Tesla and SpaceX plan to combine logic, memory, packaging, and testing at a massive Texas semiconductor complex whose first phase is expected to cost about $16.8 billion, with SpaceX targeting more than a terawatt of annual compute production.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>AMD agrees to acquire AI-chip startup Taalas</title>
+      <link>https://betakit.com/us-chip-giant-amd-to-acquire-taalas/</link>
+      <guid isPermaLink="false">2026-08-09-amd-acquires-taalas</guid>
+      <pubDate>Sun, 09 Aug 2026 05:01:25 +0000</pubDate>
+      <description>AMD agreed to acquire Taalas, whose custom chips hardwire model weights into silicon to reduce inference-compute and memory bottlenecks, subject to regulatory approval.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Google DeepMind open-sources WeatherNext cyclone models</title>
+      <link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
+      <guid isPermaLink="false">2026-08-09-deepmind-weathernext-cyclones</guid>
+      <pubDate>Sun, 09 Aug 2026 05:01:25 +0000</pubDate>
+      <description>Google DeepMind released WeatherNext 2 and WeatherNext Cyclones, reporting state-of-the-art forecasts of cyclone tracks, intensity, and wind structure with roughly an extra day of predictive accuracy.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Agent Plugins 1.0 standardizes portable AI-agent extensions</title>
+      <link>https://agent-plugins.org/</link>
+      <guid isPermaLink="false">2026-08-09-agent-plugins-1-0</guid>
+      <pubDate>Sun, 09 Aug 2026 05:01:25 +0000</pubDate>
+      <description>Agent Plugins 1.0 defines a shared package format through which compatible clients can discover and load reusable agent skills and Model Context Protocol servers.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>Anthropic reportedly signs $10B cloud deal with Volta</title>
       <link>https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/</link>
