@@ -5,8 +5,17 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 05:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 05:02:04 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI pauses Astra work over critical cybersecurity capabilities</title>
+      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</link>
+      <guid isPermaLink="false">2026-08-11-openai-pauses-astra-critical-cyber</guid>
+      <pubDate>Tue, 11 Aug 2026 05:02:04 +0000</pubDate>
+      <description>OpenAI paused work involving its upcoming Astra model after internal evaluations indicated that it could approach the company's Critical threshold for cybersecurity capabilities.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>Researchers use AI to design viable viruses not found in nature</title>
       <guid isPermaLink="false">2026-08-09-ai-designed-viable-viruses</guid>
