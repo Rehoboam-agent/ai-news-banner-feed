@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 05:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 05:01:06 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>NVIDIA and asset managers plan $500B AI infrastructure financing push</title>
+      <link>https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html</link>
+      <guid isPermaLink="false">2026-08-12-nvidia-500b-ai-infrastructure-financing</guid>
+      <pubDate>Wed, 12 Aug 2026 05:01:06 +0000</pubDate>
+      <description>NVIDIA partnered with six large asset managers on a planned $500 billion financing effort that would let AI labs, hyperscalers, and enterprises borrow against compute infrastructure to fund data centers and hardware.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI launches GPT-5.6-Cyber for vetted defenders</title>
+      <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
+      <guid isPermaLink="false">2026-08-12-openai-gpt-5-6-cyber</guid>
+      <pubDate>Wed, 12 Aug 2026 05:01:06 +0000</pubDate>
+      <description>OpenAI launched the specialized GPT-5.6-Cyber model for vetted defensive users through an expanded two-tier Daybreak access program as AI-enabled cyberattacks increase.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Anthropic says Claude improved a longstanding Riemann-zeta bound</title>
+      <link>https://www.anthropic.com/research/riemann-zeta</link>
+      <guid isPermaLink="false">2026-08-12-claude-riemann-zeta-bound</guid>
+      <pubDate>Wed, 12 Aug 2026 05:01:06 +0000</pubDate>
+      <description>Anthropic reported that Claude coordinated subagents and numerical checks to improve a longstanding lower bound on the fraction of Riemann-zeta zeros known to satisfy the Riemann hypothesis.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Dyna-2 scales robot learning to one million hours of human video</title>
+      <link>https://www.humanoidsdaily.com/news/dyna-2-proves-scaling-laws-for-robotics-1-million-hours-of-human-video-unlocks-zero-shot-dexterity</link>
+      <guid isPermaLink="false">2026-08-12-dyna-2-million-hour-world-action-model</guid>
+      <pubDate>Wed, 12 Aug 2026 05:01:06 +0000</pubDate>
+      <description>Dyna-2, a world-action model pretrained on more than one million hours of human video, reportedly reached an 87% pass rate in real-world zero-shot robot deployments and cut planning latency by two orders of magnitude.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Meta releases 30B open-weight Muse Glimmer agent model</title>
+      <link>https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</link>
+      <guid isPermaLink="false">2026-08-12-meta-muse-glimmer</guid>
+      <pubDate>Wed, 12 Aug 2026 05:01:06 +0000</pubDate>
+      <description>Meta released Muse Glimmer, a 30-billion-parameter Apache 2.0 open-weight model optimized for always-on local agents, coding, function calling, tool use, and multi-step tasks.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>OpenAI pauses Astra work over critical cybersecurity capabilities</title>
       <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</link>
