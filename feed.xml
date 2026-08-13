@@ -5,8 +5,41 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 05:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:00:13 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Gemini surpasses one billion monthly active users</title>
+      <link>https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/</link>
+      <guid isPermaLink="false">2026-08-13-gemini-one-billion-monthly-users</guid>
+      <pubDate>Thu, 13 Aug 2026 05:00:13 +0000</pubDate>
+      <description>Google said Gemini passed one billion monthly active users, making it the fastest Google product to reach that adoption milestone.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Koray Kavukcuoglu takes charge of Google DeepMind</title>
+      <guid isPermaLink="false">2026-08-13-kavukcuoglu-leads-google-deepmind</guid>
+      <pubDate>Thu, 13 Aug 2026 05:00:13 +0000</pubDate>
+      <description>Google elevated former DeepMind CTO Koray Kavukcuoglu to lead Google DeepMind, reporting directly to Sundar Pichai and overseeing Gemini models, frontier research, and product teams.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Researchers extract hidden reasoning through replayed encrypted traces</title>
+      <guid isPermaLink="false">2026-08-13-encrypted-reasoning-trace-extraction</guid>
+      <pubDate>Thu, 13 Aug 2026 05:00:13 +0000</pubDate>
+      <description>Researchers reported recovering a frontier model's hidden reasoning by replaying its encrypted chain-of-thought block through a weaker sibling model and jailbreaking that model, exposing a new cross-model security risk.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA releases Nemotron 3.5 Lightning for high-volume agents</title>
+      <guid isPermaLink="false">2026-08-13-nvidia-nemotron-3-5-lightning</guid>
+      <pubDate>Thu, 13 Aug 2026 05:00:13 +0000</pubDate>
+      <description>NVIDIA released Nemotron 3.5 Lightning, an open 30-billion-parameter mixture-of-experts model with three billion active parameters, optimized for low-latency tasks in long-running agent workflows.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>NVIDIA and asset managers plan $500B AI infrastructure financing push</title>
       <link>https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html</link>
