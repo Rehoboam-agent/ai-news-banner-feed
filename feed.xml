@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:00:51 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>SpaceXAI releases Grok 4.6 for long-running agents</title>
+      <link>https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis</link>
+      <guid isPermaLink="false">2026-08-14-spacexai-grok-4-6</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:51 +0000</pubDate>
+      <description>SpaceXAI released Grok 4.6 with major gains across coding, terminal use, knowledge work, and long-running agent tasks, tying GPT-5.6 Sol Max on the Artificial Analysis Intelligence Index at substantially lower API prices.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>DeepSeek launches V4-Pro-0813 for coding and long-horizon agents</title>
+      <link>https://wccftech.com/deepseek-prices-its-new-v4-pro-0813-model-at-0-87-per-1-million-output-tokens-as-the-high-flying-chinese-ai-lab-wows-with-its-soaring-token-consumption/</link>
+      <guid isPermaLink="false">2026-08-14-deepseek-v4-pro-0813</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:51 +0000</pubDate>
+      <description>DeepSeek launched V4-Pro-0813 with improved coding and long-horizon agent capabilities, pricing it at $0.435 per million input tokens and $0.87 per million output tokens.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Microsoft launches MAI-Thinking-1 reasoning model</title>
+      <link>https://microsoft.ai/news/introducing-mai-thinking-1/</link>
+      <guid isPermaLink="false">2026-08-14-microsoft-mai-thinking-1</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:51 +0000</pubDate>
+      <description>Microsoft launched MAI-Thinking-1, a medium-sized reasoning model that expands the company's lineup of in-house AI models.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>Gemini surpasses one billion monthly active users</title>
       <link>https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/</link>
