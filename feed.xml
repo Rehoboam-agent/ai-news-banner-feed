@@ -5,8 +5,25 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 05:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:01:19 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google releases Gemini 3.7 Flash for coding and agents</title>
+      <guid isPermaLink="false">2026-08-15-google-gemini-3-7-flash</guid>
+      <pubDate>Sat, 15 Aug 2026 05:01:19 +0000</pubDate>
+      <description>Google began rolling out Gemini 3.7 Flash, updating its high-volume model for coding and agent workloads only three weeks after Gemini 3.6 Flash and temporarily halving its price.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI previews 750-token-per-second GPT-5.6 Sol tier</title>
+      <link>https://www.testingcatalog.com/openai-previews-ultrafast-api-tier-for-gpt-5-6-sol/</link>
+      <guid isPermaLink="false">2026-08-15-openai-gpt-5-6-sol-ultrafast</guid>
+      <pubDate>Sat, 15 Aug 2026 05:01:19 +0000</pubDate>
+      <description>OpenAI previewed an Ultrafast API tier that runs the full GPT-5.6 Sol model at up to 750 output tokens per second, roughly 14 times Standard speed, using Cerebras inference infrastructure.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>SpaceXAI releases Grok 4.6 for long-running agents</title>
       <link>https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis</link>
