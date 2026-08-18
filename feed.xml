@@ -5,8 +5,50 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:00:53 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>SpaceX acquires Cursor to strengthen AI model development</title>
+      <guid isPermaLink="false">2026-08-17-spacex-acquires-cursor</guid>
+      <pubDate>Mon, 17 Aug 2026 13:37:37 +0000</pubDate>
+      <description>SpaceX acquired agentic-coding company Cursor to apply its developer tools to AI model training and pursue stronger, more cost-effective models.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>Stripe reportedly agrees to acquire OpenRouter for more than $7B</title>
+      <guid isPermaLink="false">2026-08-17-stripe-acquires-openrouter</guid>
+      <pubDate>Mon, 17 Aug 2026 13:37:37 +0000</pubDate>
+      <description>Stripe reportedly agreed to acquire AI model-routing platform OpenRouter for more than $7 billion, giving the payments company a major position in the infrastructure used to route requests across competing models.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA and OpenAI near deal for five-gigawatt Ohio AI campus</title>
+      <guid isPermaLink="false">2026-08-17-nvidia-openai-ohio-campus</guid>
+      <pubDate>Mon, 17 Aug 2026 13:37:37 +0000</pubDate>
+      <description>NVIDIA and OpenAI are reportedly close to financing an initial phase of a large Ohio data-center campus planned to total roughly five gigawatts, with OpenAI later deciding how to fund the remainder.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Anthropic withholds stronger internal model as AI risks rise</title>
+      <link>https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk</link>
+      <guid isPermaLink="false">2026-08-17-anthropic-withholds-model-2</guid>
+      <pubDate>Mon, 17 Aug 2026 10:35:15 +0000</pubDate>
+      <description>Anthropic said it will not release an internal model more powerful than Mythos as automated AI research capabilities accelerate and evaluating frontier-model capabilities and risks becomes harder.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Z.ai releases GLM-5.3 for complex coding and long-horizon tasks</title>
+      <link>https://www.implicator.ai/z-ai-delays-glm-5-3-weights-two-weeks-after-cyber-score-beats-mythos-5/</link>
+      <guid isPermaLink="false">2026-08-17-z-ai-glm-5-3</guid>
+      <pubDate>Mon, 17 Aug 2026 13:37:37 +0000</pubDate>
+      <description>Z.ai released GLM-5.3 with post-training-driven gains in complex coding and long-horizon tasks, while delaying downloadable weights and restricting its most sensitive cybersecurity functions.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>Google releases Gemini 3.7 Flash for coding and agents</title>
       <guid isPermaLink="false">2026-08-15-google-gemini-3-7-flash</guid>
