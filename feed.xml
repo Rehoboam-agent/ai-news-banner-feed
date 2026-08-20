@@ -5,8 +5,33 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 05:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 05:00:47 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Cerebras unveils CS-4 AI computer</title>
+      <guid isPermaLink="false">2026-08-20-cerebras-cs-4-ai-computer</guid>
+      <pubDate>Wed, 19 Aug 2026 14:06:18 +0000</pubDate>
+      <description>Cerebras unveiled its fourth-generation CS-4 AI computer, claiming a multiple-fold speed increase over its predecessor as it challenges NVIDIA in data-center AI infrastructure, with broader availability planned for the third quarter.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI rewrites safety framework while frontier training remains paused</title>
+      <link>https://www.implicator.ai/openai-safety-framework-frontier-training-paused/</link>
+      <guid isPermaLink="false">2026-08-20-openai-rewrites-safety-framework-training-pause</guid>
+      <pubDate>Wed, 19 Aug 2026 10:34:02 +0000</pubDate>
+      <description>OpenAI is rewriting its Preparedness Framework and moving alignment work earlier in training while its largest planned frontier reinforcement-learning run and significant Astra and cybersecurity workloads remain paused.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Anthropic quarterly sales reportedly surpass OpenAI for the first time</title>
+      <guid isPermaLink="false">2026-08-20-anthropic-quarterly-sales-surpass-openai</guid>
+      <pubDate>Wed, 19 Aug 2026 10:34:02 +0000</pubDate>
+      <description>Anthropic reportedly more than doubled revenue and reached a small operating profit in the second quarter, overtaking OpenAI's quarterly sales for the first time as OpenAI's revenue rose 18% and its losses deepened.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
     <item>
       <title>Cursor launches Origin as an agent-native GitHub rival</title>
       <link>https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race</link>
