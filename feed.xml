@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:01:26 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI previews Private Safety Processing for zero-data-retention customers</title>
+      <link>https://openai.com/index/our-commitment-to-zero-data-retention/</link>
+      <guid isPermaLink="false">2026-08-21-openai-private-safety-processing</guid>
+      <pubDate>Thu, 20 Aug 2026 13:30:51 +0000</pubDate>
+      <description>OpenAI previewed Private Safety Processing, a system designed to detect harmful patterns across related interactions while preserving enterprise customers' zero-data-retention commitments.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Ornith-1.5 open-model family adds a closed self-improvement loop</title>
+      <link>https://www.testingcatalog.com/ornith-1-5-open-models-launch-in-397b-35b-and-9-b-sizes/</link>
+      <guid isPermaLink="false">2026-08-21-ornith-1-5-open-model-family</guid>
+      <pubDate>Thu, 20 Aug 2026 13:30:51 +0000</pubDate>
+      <description>Ornith-1.5 launched in 397B mixture-of-experts, 35B mixture-of-experts, and 9B dense variants, extending self-scaffolding into a loop that jointly improves task generation, strategies, and policy through reinforcement learning.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Agent Lightning trains coding agents with lightweight harnessed RL</title>
+      <link>https://arxiv.org/abs/2608.17528</link>
+      <guid isPermaLink="false">2026-08-21-agent-lightning-harnessed-agentic-rl</guid>
+      <pubDate>Thu, 20 Aug 2026 13:30:51 +0000</pubDate>
+      <description>Agent Lightning v1.0 introduced a lightweight framework for reinforcement learning across arbitrary agent harnesses, improving Qwen3.5-9B by 14.6 points on SWE-bench Verified with 6,000 training examples.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>OpenAI tells employees it expects to go public by 2027</title>
+      <link>https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html</link>
+      <guid isPermaLink="false">2026-08-21-openai-public-company-2027</guid>
+      <pubDate>Thu, 20 Aug 2026 10:34:00 +0000</pubDate>
+      <description>OpenAI CFO Sarah Friar told employees the company expects to be public by 2027 or sooner, after the AI lab confidentially filed an IPO prospectus with U.S. regulators in June.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>Cerebras unveils CS-4 AI computer</title>
       <guid isPermaLink="false">2026-08-20-cerebras-cs-4-ai-computer</guid>
