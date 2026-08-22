@@ -5,8 +5,41 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 05:00:53 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Micron commits $10B to AI memory research</title>
+      <guid isPermaLink="false">2026-08-22-micron-10b-ai-memory-research</guid>
+      <pubDate>Fri, 21 Aug 2026 14:03:39 +0000</pubDate>
+      <description>Micron committed $10 billion to a new research lab focused on memory technologies and compute systems, a major infrastructure investment as AI workloads drive demand for advanced memory.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Anthropic makes integrated production-agent stack generally available</title>
+      <guid isPermaLink="false">2026-08-22-anthropic-production-agent-stack-ga</guid>
+      <pubDate>Fri, 21 Aug 2026 14:03:39 +0000</pubDate>
+      <description>Anthropic made an integrated production-agent stack generally available, combining computer use, browser access, versioned skills, and reusable files to reduce orchestration round trips.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Slack launches shared coding channels for teams and AI agents</title>
+      <link>https://thenextweb.com/news/slack-code-ai-coding-channels-launch</link>
+      <guid isPermaLink="false">2026-08-22-slack-code-agent-channels</guid>
+      <pubDate>Fri, 21 Aug 2026 10:35:44 +0000</pubDate>
+      <description>Slack launched Slack Code, where teams can summon coding agents into project-specific channels and collaboratively follow, review, and ship their work inside the chat platform.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>Anthropic prepares for a potentially record-setting IPO</title>
+      <guid isPermaLink="false">2026-08-22-anthropic-record-ipo-preparations</guid>
+      <pubDate>Fri, 21 Aug 2026 10:35:44 +0000</pubDate>
+      <description>Anthropic is reportedly preparing to file for an IPO as soon as the end of August, while arranging a credit facility above its roughly $10 billion target and considering super-voting founder shares.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>OpenAI previews Private Safety Processing for zero-data-retention customers</title>
       <link>https://openai.com/index/our-commitment-to-zero-data-retention/</link>
