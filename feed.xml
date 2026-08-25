@@ -5,8 +5,40 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 05:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:01:25 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>DeepSeek releases experimental V4-Flash-Vision model</title>
+      <guid isPermaLink="false">2026-08-25-deepseek-v4-flash-vision-exp</guid>
+      <pubDate>Mon, 24 Aug 2026 13:35:00 +0000</pubDate>
+      <description>DeepSeek released V4-Flash-Vision-Exp, an experimental multimodal model for agent frameworks that handles image understanding and text extraction while supporting OpenAI- and Anthropic-compatible APIs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic opens controlled Claude Mythos 5 security scanning access</title>
+      <guid isPermaLink="false">2026-08-25-anthropic-mythos-5-security-scanning</guid>
+      <pubDate>Mon, 24 Aug 2026 13:35:00 +0000</pubDate>
+      <description>Anthropic made Claude Mythos 5 available for code scanning in Claude Security and is expanding defensive partner integrations while withholding direct model access to limit offensive misuse.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA commits $7B to Poolside investment, licensing, and hiring deal</title>
+      <guid isPermaLink="false">2026-08-25-nvidia-poolside-7b-deal</guid>
+      <pubDate>Mon, 24 Aug 2026 10:33:59 +0000</pubDate>
+      <description>NVIDIA will reportedly invest $1 billion in coding-agent startup Poolside at a $12 billion pre-money valuation, while paying another $6 billion to license its technology and hire most of its engineers.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA plans AI server price increases above 15%</title>
+      <guid isPermaLink="false">2026-08-25-nvidia-ai-server-price-increases</guid>
+      <pubDate>Mon, 24 Aug 2026 10:33:59 +0000</pubDate>
+      <description>NVIDIA reportedly notified major customers that Vera Rubin- and Grace Blackwell-based AI servers will rise in price by more than 15% early next year as memory costs surge.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Micron commits $10B to AI memory research</title>
       <guid isPermaLink="false">2026-08-22-micron-10b-ai-memory-research</guid>
