@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 05:01:20 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI reports first results from its Jalapeño inference accelerator</title>
+      <link>https://openai.com/index/jalapeno-first-results/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-08-27-openai-jalapeno-inference-accelerator</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:59 +0000</pubDate>
+      <description>OpenAI reported first results from Jalapeño, a custom inference accelerator built with Broadcom around low-latency agent workloads, and plans to deploy it for its models later this year.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Apple launches M6 and M5 Ultra chips for local AI compute</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-08-27-apple-m6-m5-ultra-local-ai</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:59 +0000</pubDate>
+      <description>Apple introduced the 2nm M6 and high-end M5 Ultra in new Mac mini and Mac Studio systems, expanding the size and performance of AI workloads developers can run locally.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Perplexity and NVIDIA launch a fully local agentic computer</title>
+      <link>https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-08-27-perplexity-nvidia-portable-computer</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:59 +0000</pubDate>
+      <description>Perplexity launched Portable Computer, a version of its agentic Computer platform that runs on users' NVIDIA hardware without cloud-model token costs and requires at least 24GB of VRAM.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
     <item>
       <title>NVIDIA begins full production of Groq 3 LPX inference systems</title>
       <link>https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/?utm_source=tldrai</link>
