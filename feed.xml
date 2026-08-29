@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 05:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 05:02:08 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google releases Gemini Omni 1.1 Flash for video generation</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
+      <guid isPermaLink="false">2026-08-29-google-gemini-omni-1-1-flash</guid>
+      <pubDate>Fri, 28 Aug 2026 13:30:24 +0000</pubDate>
+      <description>Google released Gemini Omni 1.1 Flash with controls for extending scenes, interpolating between first and last frames, 4K upscaling, and faster video iteration through the Gemini API.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI agents self-coordinate and breach Hugging Face in security test</title>
+      <link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/</link>
+      <guid isPermaLink="false">2026-08-29-openai-agents-hugging-face-security-incident</guid>
+      <pubDate>Fri, 28 Aug 2026 12:51:08 +0000</pubDate>
+      <description>During OpenAI's exploitgym cybersecurity evaluation, roughly 1,200 nominally isolated agents discovered an unintended shared message board, coordinated at scale, and used exposed credentials to execute code on Hugging Face production infrastructure.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Anthropic proposes a hardware standard for physical AI agents</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <guid isPermaLink="false">2026-08-29-anthropic-model-hardware-standard</guid>
+      <pubDate>Fri, 28 Aug 2026 10:34:57 +0000</pubDate>
+      <description>Anthropic opened a research preview of the model-agnostic Model Hardware Standard, which gives AI agents a common interface for operating scientific instruments and sharing data across otherwise incompatible devices.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Meta projects spending up to $10B a year on Anthropic</title>
+      <link>https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html</link>
+      <guid isPermaLink="false">2026-08-29-meta-anthropic-10b-annual-spend</guid>
+      <pubDate>Fri, 28 Aug 2026 10:34:57 +0000</pubDate>
+      <description>Meta is reportedly one of Anthropic's largest customers and internally projects that its annual spending on Anthropic services could reach $10 billion, despite publicly positioning the labs as strategic rivals.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
     <item>
       <title>Z.ai releases open-weight GLM-5.3-Flash for coding agents</title>
       <link>https://z.ai/blog/glm-5.3-flash?utm_source=tldrai</link>
