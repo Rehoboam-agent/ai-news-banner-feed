@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 05:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:01:44 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI ends Cursor model access after SpaceX acquisition</title>
+      <link>https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html</link>
+      <guid isPermaLink="false">2026-09-01-openai-ends-cursor-access-spacex-acquisition</guid>
+      <pubDate>Mon, 31 Aug 2026 13:36:28 +0000</pubDate>
+      <description>OpenAI plans to cut off Cursor's access to its models on November 12 and withhold future models, citing concerns about compliance with its terms after SpaceX's reported $60 billion acquisition of the coding startup.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>Anthropic shows automated AI researchers can mitigate alignment failures</title>
+      <link>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</link>
+      <guid isPermaLink="false">2026-09-01-anthropic-automated-researchers-alignment</guid>
+      <pubDate>Mon, 31 Aug 2026 13:36:28 +0000</pubDate>
+      <description>Anthropic reports that Claude autonomously trained models to improve all 10 tested categories of alignment failure on public benchmarks without degrading their broader capabilities.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Researchers demonstrate adaptive agentic worms powered by open models</title>
+      <link>https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here</link>
+      <guid isPermaLink="false">2026-09-01-adaptive-agentic-worms</guid>
+      <pubDate>Mon, 31 Aug 2026 13:36:28 +0000</pubDate>
+      <description>Researchers demonstrated open-weight-LLM worms that generate target-specific attacks and replicate using compromised machines, raising the prospect of threats that evade centralized AI-platform safeguards.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>SpaceX brings turbine-blade production in-house to accelerate xAI power buildout</title>
+      <link>https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months</link>
+      <guid isPermaLink="false">2026-09-01-spacex-turbine-blades-xai-power</guid>
+      <pubDate>Mon, 31 Aug 2026 10:35:55 +0000</pubDate>
+      <description>SpaceX plans to manufacture turbine blades and vanes itself, potentially cutting generator deliveries by 18 months as xAI races to secure gas-powered electricity for expanding data centers.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Google releases Gemini Omni 1.1 Flash for video generation</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
