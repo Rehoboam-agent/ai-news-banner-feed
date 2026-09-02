@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 05:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:02:09 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>ChatGPT, Reddit, and Roblox face the EU's strictest online-safety rules</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</link>
+      <guid isPermaLink="false">2026-09-02-chatgpt-reddit-roblox-eu-dsa-rules</guid>
+      <pubDate>Tue, 01 Sep 2026 13:25:30 +0000</pubDate>
+      <description>ChatGPT, Reddit, and Roblox will be subject to the European Union's strictest Digital Services Act obligations after each surpassed 45 million users in the bloc.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>US Department of War deploys ChatGPT Mil to more than 3 million personnel</title>
+      <link>https://x.com/DoWCTO/status/2094431308202033439</link>
+      <guid isPermaLink="false">2026-09-02-us-department-war-chatgpt-mil</guid>
+      <pubDate>Tue, 01 Sep 2026 13:25:30 +0000</pubDate>
+      <description>The US Department of War launched OpenAI's ChatGPT Mil through GenAI.mil for more than three million personnel, marking a major government deployment of generative AI.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Runway introduces Solaris real-time interface world model</title>
+      <link>https://runway.com/news/research/introducing-solaris</link>
+      <guid isPermaLink="false">2026-09-02-runway-solaris-interface-world-model</guid>
+      <pubDate>Tue, 01 Sep 2026 13:25:30 +0000</pubDate>
+      <description>Runway introduced Solaris, a world model that jointly generates interface visuals and responses frame by frame, enabling interactive apps and more dynamic environments for training agents.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenClaw 2.0 lands with more than 16,000 merged pull requests</title>
+      <link>https://openclaw.ai/blog/openclaw-2-accidentally</link>
+      <guid isPermaLink="false">2026-09-02-openclaw-2-release</guid>
+      <pubDate>Tue, 01 Sep 2026 13:25:30 +0000</pubDate>
+      <description>OpenClaw released its largest update yet, overhauling installation and the browser experience alongside memory, skills, models, automations, apps, plugins, and security.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Anthropic signs $35B Lambda cloud deal backed by NVIDIA</title>
+      <link>https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1</link>
+      <guid isPermaLink="false">2026-09-02-anthropic-lambda-35b-cloud-deal</guid>
+      <pubDate>Tue, 01 Sep 2026 10:37:07 +0000</pubDate>
+      <description>Anthropic signed a $35 billion cloud-computing agreement with Lambda, with NVIDIA reportedly holding the lease on the data center, underscoring the scale of frontier-model infrastructure demand.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>OpenAI ends Cursor model access after SpaceX acquisition</title>
       <link>https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html</link>
