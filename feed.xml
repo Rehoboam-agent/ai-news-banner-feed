@@ -5,8 +5,43 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 05:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 05:01:19 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI says Astra crosses its critical cybersecurity capability threshold</title>
+      <link>https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-09-03-openai-astra-critical-cyber-threshold</guid>
+      <pubDate>Wed, 02 Sep 2026 13:32:19 +0000</pubDate>
+      <description>OpenAI says its upcoming Astra model is its first to cross the company's critical cybersecurity capability threshold and plans to restrict access to those capabilities when the model launches.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Anthropic releases Claude Fable 5.1 and restricts Mythos 5.1 to vetted organizations</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-09-03-anthropic-claude-fable-mythos-5-1</guid>
+      <pubDate>Wed, 02 Sep 2026 13:32:19 +0000</pubDate>
+      <description>Anthropic made Claude Fable 5.1 generally available while limiting the specialized Mythos 5.1 model to vetted cybersecurity and life-sciences organizations, alongside stronger safeguards and cheaper cached context.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>World Labs introduces Atlas spatial-intelligence world model</title>
+      <link>https://www.worldlabs.ai/blog/atlas?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-09-03-world-labs-atlas-world-model</guid>
+      <pubDate>Wed, 02 Sep 2026 13:32:19 +0000</pubDate>
+      <description>World Labs introduced Atlas, a world-generation model pretrained from scratch for spatial intelligence whose performance scales with additional training compute across a broad range of tasks.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Cognition reportedly seeks about $1B at a $47B valuation</title>
+      <guid isPermaLink="false">2026-09-03-cognition-1b-47b-funding-round</guid>
+      <pubDate>Wed, 02 Sep 2026 13:32:19 +0000</pubDate>
+      <description>AI coding startup Cognition is reportedly preparing to raise around $1 billion at a $47 billion valuation, with the final round potentially exceeding that amount.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>ChatGPT, Reddit, and Roblox face the EU's strictest online-safety rules</title>
       <link>https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</link>
