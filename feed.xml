@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 05:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 05:01:36 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic pauses highest-risk RL work and invites METR review</title>
+      <link>https://thezvi.substack.com/p/anthropic-has-some-alignment-problems?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-09-04-anthropic-pauses-high-risk-rl-metr-review</guid>
+      <pubDate>Thu, 03 Sep 2026 13:31:55 +0000</pubDate>
+      <description>Anthropic is pausing its highest-risk reinforcement-learning efforts and plans to bring METR in for an independent review following recent security incidents involving AI agents.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Google releases Gemini 3.8 Flash and restricted Flash Cyber model</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-09-04-google-gemini-3-8-flash-cyber</guid>
+      <pubDate>Thu, 03 Sep 2026 13:31:55 +0000</pubDate>
+      <description>Google released Gemini 3.8 Flash with stronger coding, agentic, and multi-step reasoning, plus a restricted Cyber variant designed to detect vulnerabilities and automate patches.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Meta releases Muse Spark 1.3 for coding and agentic workloads</title>
+      <link>https://research.meta.ai/blog/introducing-muse-spark-1-3?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-09-04-meta-muse-spark-1-3</guid>
+      <pubDate>Thu, 03 Sep 2026 13:31:55 +0000</pubDate>
+      <description>Meta released Muse Spark 1.3 with improved coding and agentic performance through Muse Code and the Meta Model API, while its highest reasoning mode awaits additional safety testing.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA and CrowdStrike introduce SafeMind cybersecurity models</title>
+      <link>https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa</link>
+      <guid isPermaLink="false">2026-09-04-nvidia-crowdstrike-safemind</guid>
+      <pubDate>Thu, 03 Sep 2026 13:31:55 +0000</pubDate>
+      <description>NVIDIA and CrowdStrike introduced SafeMind, a family of agentic cybersecurity models designed to identify and close attack paths in customer environments.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Unit 42 documents a frontier-AI-assisted ransomware intrusion</title>
+      <link>https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-09-04-unit42-frontier-ai-ransomware-intrusion</guid>
+      <pubDate>Thu, 03 Sep 2026 13:31:55 +0000</pubDate>
+      <description>Unit 42 investigated a ransomware intrusion in which a human attacker used frontier AI to move through an enterprise network at unprecedented speed.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>OpenAI says Astra crosses its critical cybersecurity capability threshold</title>
       <link>https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html?utm_source=tldrai</link>
