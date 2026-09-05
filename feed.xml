@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:00:29 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI releases GPT-6 Astra with gated rollout</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <guid isPermaLink="false">2026-09-05-openai-gpt-6-astra-release</guid>
+      <pubDate>Fri, 04 Sep 2026 13:30:00 +0000</pubDate>
+      <description>OpenAI released GPT-6 Astra, its most capable broadly deployed model and first to reach the Critical cybersecurity level under its Preparedness Framework, with access initially gated before a wider paid-product and API rollout.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA confirms $12.93 billion acquisition of Hugging Face</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</link>
+      <guid isPermaLink="false">2026-09-05-nvidia-confirms-hugging-face-acquisition</guid>
+      <pubDate>Fri, 04 Sep 2026 13:30:00 +0000</pubDate>
+      <description>NVIDIA confirmed its $12.93 billion acquisition of Hugging Face, which hosts millions of models and serves more than 18 million developers, while saying the platform will remain open and independent of NVIDIA compute.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>Researchers disclose cross-model universal jailbreak technique</title>
+      <link>https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal</link>
+      <guid isPermaLink="false">2026-09-05-cross-model-universal-jailbreak</guid>
+      <pubDate>Fri, 04 Sep 2026 13:30:00 +0000</pubDate>
+      <description>Researchers turned a safety-research prompt into a universal jailbreak template that achieved 84% to 100% attack success on the nine most vulnerable models in a 23-model evaluation.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Abu Dhabi lab open-sources K2 Horizon model family</title>
+      <link>https://ifm.ai</link>
+      <guid isPermaLink="false">2026-09-05-k2-horizon-open-model-family</guid>
+      <pubDate>Fri, 04 Sep 2026 13:02:32 +0000</pubDate>
+      <description>The Institute of Foundation Models released six K2 Horizon models ranging from 0.9 billion to 375 billion parameters, along with weights, code, and training data.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>US lawmakers propose ban on artificial superintelligence development</title>
+      <link>https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/</link>
+      <guid isPermaLink="false">2026-09-05-sanders-casar-superintelligence-ban-bill</guid>
+      <pubDate>Fri, 04 Sep 2026 13:02:32 +0000</pubDate>
+      <description>Senator Bernie Sanders and Representative Greg Casar introduced federal legislation to ban artificial-superintelligence development and temporarily pause advanced AI development.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
     <item>
       <title>Anthropic pauses highest-risk RL work and invites METR review</title>
       <link>https://thezvi.substack.com/p/anthropic-has-some-alignment-problems?utm_source=tldrai</link>
