@@ -5,8 +5,17 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 05:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:01:23 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Claude produces first end-to-end computer-checked proof of Fermat's Last Theorem</title>
+      <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
+      <guid isPermaLink="false">2026-09-08-claude-formalizes-fermats-last-theorem</guid>
+      <pubDate>Mon, 07 Sep 2026 13:42:59 +0000</pubDate>
+      <description>Anthropic reports that Claude worked largely autonomously for 11 days to produce the first end-to-end computer-checked proof of Fermat's Last Theorem, writing 13 million lines of Lean and proving 29,500 intermediate theorems.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>OpenAI releases GPT-6 Astra with gated rollout</title>
       <link>https://openai.com/index/gpt-6-astra/</link>
