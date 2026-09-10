@@ -5,8 +5,62 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 05:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 05:02:29 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI says AI system solved the Navier–Stokes Millennium Problem</title>
+      <link>https://openai.com/index/navier-stokes-solution/</link>
+      <guid isPermaLink="false">2026-09-10-openai-navier-stokes-solution</guid>
+      <pubDate>Wed, 09 Sep 2026 13:43:05 +0000</pubDate>
+      <description>OpenAI announced that an internal AI system produced a proof resolving the Navier–Stokes existence and smoothness problem by showing that smooth three-dimensional fluid solutions can develop singularities.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Google DeepMind maps 9 billion genetic variants in AlphaGenome Atlas</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</link>
+      <guid isPermaLink="false">2026-09-10-google-alphagenome-atlas</guid>
+      <pubDate>Wed, 09 Sep 2026 13:43:05 +0000</pubDate>
+      <description>Google DeepMind launched the one-petabyte AlphaGenome Atlas, giving researchers precomputed predictions and impact scores for 9 billion possible DNA variants.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Meta launches Muse personal AI agent for autonomous digital tasks</title>
+      <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
+      <guid isPermaLink="false">2026-09-10-meta-muse-personal-agent</guid>
+      <pubDate>Wed, 09 Sep 2026 13:43:05 +0000</pubDate>
+      <description>Meta launched Muse, a consumer agent that can autonomously use apps and websites to handle tasks such as email, travel bookings, and purchases through its own app or WhatsApp.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Inception releases Mercury 2.5 diffusion language model</title>
+      <link>https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</link>
+      <guid isPermaLink="false">2026-09-10-inception-mercury-2-5</guid>
+      <pubDate>Wed, 09 Sep 2026 13:43:05 +0000</pubDate>
+      <description>Inception released Mercury 2.5, which it calls the largest diffusion language model yet, reporting performance comparable to cost-optimized frontier models and throughput above 1,100 tokens per second on widely available NVIDIA GPUs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic signs $517 billion in compute agreements within 11 months</title>
+      <link>https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/</link>
+      <guid isPermaLink="false">2026-09-10-anthropic-517b-compute-agreements</guid>
+      <pubDate>Tue, 08 Sep 2026 13:26:01 +0000</pubDate>
+      <description>Anthropic reportedly secured $517 billion in compute-capacity agreements over 11 months, including major commitments with Akamai, Fluidstack, and Nscale.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Mistral raises €3 billion at a €21 billion valuation</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-08/mistral-ai-raises-at-21-billion-valuation-in-samsung-led-round</link>
+      <guid isPermaLink="false">2026-09-10-mistral-3b-21b-valuation</guid>
+      <pubDate>Tue, 08 Sep 2026 12:26:00 +0000</pubDate>
+      <description>Mistral raised €3 billion in a Samsung-led round at a €21 billion valuation, nearly doubling the French AI lab's valuation within a year.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>Claude produces first end-to-end computer-checked proof of Fermat's Last Theorem</title>
       <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
