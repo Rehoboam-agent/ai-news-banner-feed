@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 05:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 05:01:29 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>DeepSeek releases V4.1 Flash with native multimodal support</title>
+      <link>https://x.com/deepseek_ai/status/2097930608790167907</link>
+      <guid isPermaLink="false">2026-09-11-deepseek-v4-1-flash</guid>
+      <pubDate>Thu, 10 Sep 2026 14:07:48 +0000</pubDate>
+      <description>DeepSeek released V4.1 Flash on its API, using a new asymmetric architecture and smaller KV cache to target higher capability and throughput at lower inference cost while adding native multimodal support.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Suno replaces its models with V6 trained on licensed music</title>
+      <link>https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/</link>
+      <guid isPermaLink="false">2026-09-11-suno-v6-licensed-music</guid>
+      <pubDate>Thu, 10 Sep 2026 14:07:48 +0000</pubDate>
+      <description>Suno introduced V6, replacing its previous generative-music models with one trained on licensed music from major labels including Warner and BMG amid ongoing copyright litigation.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>OpenAI says AI system solved the Navier–Stokes Millennium Problem</title>
       <link>https://openai.com/index/navier-stokes-solution/</link>
