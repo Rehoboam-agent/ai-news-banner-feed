@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:01:34 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Cursor launches Projects for long-running, thousand-agent coding workflows</title>
+      <link>https://cursor.com/blog/projects</link>
+      <guid isPermaLink="false">2026-09-15-cursor-projects-long-running-agent-workflows</guid>
+      <pubDate>Mon, 14 Sep 2026 13:40:22 +0000</pubDate>
+      <description>Cursor launched Projects to retain context across months of work, delegate tasks to thousands of agents, and run recurring engineering work without fresh prompts.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>SoftBank secures $11.9 billion loan for OpenAI funding push</title>
+      <link>https://www.japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai/</link>
+      <guid isPermaLink="false">2026-09-15-softbank-11-9b-loan-openai-funding</guid>
+      <pubDate>Mon, 14 Sep 2026 13:40:22 +0000</pubDate>
+      <description>SoftBank borrowed $11.9 billion from roughly 20 banks as it works toward investing about $65 billion in OpenAI by October.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>Anthropic CEO calls for slowing frontier AI development</title>
+      <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
+      <guid isPermaLink="false">2026-09-15-amodei-pace-frontier-ai-development</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Dario Amodei urged AI labs to pace capability development so safeguards can catch up, proposing independent safety evaluation, incident reporting, and measures against a competitive race to the bottom.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>OpenAI delays potential IPO beyond 2026 over safety concerns</title>
+      <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
+      <guid isPermaLink="false">2026-09-15-openai-delays-ipo-beyond-2026</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Sam Altman said OpenAI would not go public in 2026 because doing so amid current AI-safety concerns would be ill-advised, pushing a possible listing to 2027 or later.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
     <item>
       <title>OpenAI launches managed Agents API in public beta</title>
       <link>https://openai.com/index/introducing-the-agents-api/</link>
