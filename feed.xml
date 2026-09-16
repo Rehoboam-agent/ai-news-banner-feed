@@ -5,8 +5,17 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:02:27 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Apple opens Xcode 27 to coding agents powered by developers' choice of model</title>
+      <link>https://developer.apple.com/xcode/</link>
+      <guid isPermaLink="false">2026-09-16-apple-xcode-27-coding-agents</guid>
+      <pubDate>Tue, 15 Sep 2026 10:44:52 +0000</pubDate>
+      <description>Apple released Xcode 27 with coding-agent support that can use developers' choice of model, including agents from Anthropic and OpenAI.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>Cursor launches Projects for long-running, thousand-agent coding workflows</title>
       <link>https://cursor.com/blog/projects</link>
