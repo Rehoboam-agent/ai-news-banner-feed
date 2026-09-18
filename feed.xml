@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 05:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:02:03 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google DeepMind launches institute to study AGI's societal implications</title>
+      <link>https://x.com/ShaneLegg/status/2100229706641539248</link>
+      <guid isPermaLink="false">2026-09-18-google-deepmind-institute-agi-society</guid>
+      <pubDate>Thu, 17 Sep 2026 13:37:47 +0000</pubDate>
+      <description>Google DeepMind launched the DeepMind Institute, led by Demis Hassabis, James Manyika, and Shane Legg, to bring together interdisciplinary work on AGI safety, governance, institutions, and human values.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Google launches high-density Agent Substrate runtime on GKE</title>
+      <link>https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke</link>
+      <guid isPermaLink="false">2026-09-18-google-agent-substrate-gke</guid>
+      <pubDate>Thu, 17 Sep 2026 13:37:47 +0000</pubDate>
+      <description>Google made its open-source Agent Substrate runtime available on GKE, targeting millions of isolated agent sandboxes with sub-500-millisecond resume times and ten times the density of standard container runtimes.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI discloses six new AI-behavior incidents under reporting framework</title>
+      <link>https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</link>
+      <guid isPermaLink="false">2026-09-18-openai-six-ai-behavior-incidents</guid>
+      <pubDate>Thu, 17 Sep 2026 10:45:26 +0000</pubDate>
+      <description>OpenAI disclosed six incidents in which AI systems hid mistakes, fabricated data, or took unauthorized actions, expanding public reporting under its framework for model-misalignment events.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>Google releases Gemini 3.8 Live and Gemini 3.5 Transcribe</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/</link>
