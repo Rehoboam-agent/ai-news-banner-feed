@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 05:00:48 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic uses Claude to improve more than 30 biomolecular models</title>
+      <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
+      <guid isPermaLink="false">2026-09-19-anthropic-claude-biomolecular-modeling</guid>
+      <pubDate>Fri, 18 Sep 2026 13:36:53 +0000</pubDate>
+      <description>Anthropic reports that Claude optimized more than 30 biomolecular models, including changes that allow larger biological systems to be predicted on a single NVIDIA GPU.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>AI agents automate PaperCut attacks across 395 organizations</title>
+      <link>https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf</link>
+      <guid isPermaLink="false">2026-09-19-ai-agent-papercut-campaign</guid>
+      <pubDate>Fri, 18 Sep 2026 12:53:14 +0000</pubDate>
+      <description>GreyNoise documented a campaign in which AI agents automated human-written PaperCut exploits against 395 organizations in 48 countries, demonstrating the speed and scale of agent-orchestrated intrusion activity.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Researchers disclose attack that compromised OpenAI employee ChatGPT accounts</title>
+      <link>https://www.hacktron.ai/blog/hacking-openai</link>
+      <guid isPermaLink="false">2026-09-19-openai-employee-chatgpt-account-compromise</guid>
+      <pubDate>Fri, 18 Sep 2026 10:43:45 +0000</pubDate>
+      <description>Researchers disclosed two chained vulnerabilities that compromised multiple OpenAI employees' ChatGPT accounts, exposing access to internal repositories and connected services before the flaws were fixed.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Figure releases Helix 2.5 humanoid control model</title>
+      <link>https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization</link>
+      <guid isPermaLink="false">2026-09-19-figure-helix-2-5-humanoid-control-model</guid>
+      <pubDate>Fri, 18 Sep 2026 10:43:45 +0000</pubDate>
+      <description>Figure released Helix 2.5, a humanoid control model that it says can complete long-horizon household tasks in previously unseen homes without collecting training data in those environments.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>Google DeepMind launches institute to study AGI's societal implications</title>
       <link>https://x.com/ShaneLegg/status/2100229706641539248</link>
