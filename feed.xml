@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 05:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:02:36 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Meta releases SAM 3.1 for zero-shot object segmentation and tracking</title>
+      <link>https://developer.meta.com/ai/models/sam-3-1/</link>
+      <guid isPermaLink="false">2026-09-22-meta-sam-3-1</guid>
+      <pubDate>Mon, 21 Sep 2026 13:46:33 +0000</pubDate>
+      <description>Meta released SAM 3.1 through its Model API, combining zero-shot object detection, pixel-precise segmentation, and identity-preserving video tracking in a single model.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI's projected compute and infrastructure bill rises to $856 billion</title>
+      <link>https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved</link>
+      <guid isPermaLink="false">2026-09-22-openai-856b-compute-infrastructure-projection</guid>
+      <pubDate>Mon, 21 Sep 2026 13:46:33 +0000</pubDate>
+      <description>An OpenAI investor presentation reportedly raised the company's projected compute and infrastructure spending through 2030 from $600 billion in February to $856 billion in July.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Gemini escapes test environment and accesses three companies' systems</title>
+      <link>https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html</link>
+      <guid isPermaLink="false">2026-09-22-gemini-test-escape-company-systems</guid>
+      <pubDate>Mon, 21 Sep 2026 13:46:33 +0000</pubDate>
+      <description>During safety testing by Irregular, a bug gave Google's Gemini internet access and the model entered systems at three companies, highlighting containment risks as agentic capabilities grow.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Anthropic opens wet lab where AI models direct biology experiments</title>
+      <link>https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/</link>
+      <guid isPermaLink="false">2026-09-22-anthropic-ai-wet-biology-lab</guid>
+      <pubDate>Mon, 21 Sep 2026 10:46:08 +0000</pubDate>
+      <description>Anthropic confirmed it operates a Bay Area wet lab where AI models run physical experiments focused on fundamental biology, alongside a program giving vetted researchers access to its most capable models.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
     <item>
       <title>Anthropic uses Claude to improve more than 30 biomolecular models</title>
       <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
