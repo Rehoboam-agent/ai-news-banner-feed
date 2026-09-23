@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 05:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:01:05 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>SpaceXAI releases Grok 4.7 for coding and knowledge work</title>
+      <link>https://www.testingcatalog.com/spacexai-releases-grok-4-7-for-coding-and-knowledge-work/</link>
+      <guid isPermaLink="false">2026-09-23-spacexai-grok-4-7</guid>
+      <pubDate>Tue, 22 Sep 2026 13:27:46 +0000</pubDate>
+      <description>SpaceXAI released Grok 4.7 across its API, Grok Build, Cursor, third-party coding harnesses, model routers, and cloud platforms, targeting stronger coding and knowledge-work performance.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Xiaomi open-sources MiMo-V2.6 Pro and Flash omnimodal models</title>
+      <link>https://github.com/XiaomiMiMo/MiMo</link>
+      <guid isPermaLink="false">2026-09-23-xiaomi-mimo-v2-6-pro-flash</guid>
+      <pubDate>Tue, 22 Sep 2026 13:27:46 +0000</pubDate>
+      <description>Xiaomi released MiMo-V2.6 Pro and Flash with capabilities spanning agent coordination, interactive 3D construction, visual testing, and music composition, alongside its technical report, training environments, and reinforcement-learning code.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>Meta releases SAM 3.1 for zero-shot object segmentation and tracking</title>
       <link>https://developer.meta.com/ai/models/sam-3-1/</link>
