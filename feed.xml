@@ -5,8 +5,62 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:02:31 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google releases Gemini 3.8 Flash and Flash-Lite text-to-speech models</title>
+      <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
+      <guid isPermaLink="false">2026-09-24-google-gemini-3-8-flash-tts</guid>
+      <pubDate>Thu, 24 Sep 2026 13:39:35 +0000</pubDate>
+      <description>Google released Gemini 3.8 Flash TTS and Flash-Lite TTS for voice design, direction, dubbing, and voice-agent applications, with Flash also able to replicate an authorized voice.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Google researchers introduce regularized self-improvement for agent harnesses</title>
+      <link>https://regularized-rsi.com/</link>
+      <guid isPermaLink="false">2026-09-24-google-rrsi-agent-harness-self-improvement</guid>
+      <pubDate>Thu, 24 Sep 2026 13:39:35 +0000</pubDate>
+      <description>Google researchers introduced RRSI, a method for recursively improving agent harnesses while constraining the search process to reduce task memorization and preserve gains beyond the training set.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Claude autonomously discovers a novel programmable enzyme system</title>
+      <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+      <guid isPermaLink="false">2026-09-24-claude-discovers-programmable-enzyme-system</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:54 +0000</pubDate>
+      <description>Anthropic reports that Claude autonomously identified a previously unknown enzyme system associated with CRISPR-like DNA repeats; the system is programmable and can cut, copy, and paste DNA.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>China launches satellite for in-orbit AI processing</title>
+      <link>https://www.tomshardware.com/tech-industry/space/china-puts-ai-compute-into-orbit-with-supercomputing-1-satellite-onboard-processing-aims-to-cut-earth-observation-data-processing-from-hours-to-minutes</link>
+      <guid isPermaLink="false">2026-09-24-china-supercomputing-1-orbital-ai</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:54 +0000</pubDate>
+      <description>China launched Supercomputing-1 with an onboard AI computer that processes Earth-observation imagery in orbit, aiming to cut cross-regional processing times from hours to minutes.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI releases lower-cost GPT-6 Sol and Luna models</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
+      <guid isPermaLink="false">2026-09-23-openai-gpt-6-sol-luna</guid>
+      <pubDate>Wed, 23 Sep 2026 13:38:11 +0000</pubDate>
+      <description>OpenAI released GPT-6 Sol and Luna as faster, lower-cost counterparts to GPT-6 Astra, extending its latest coding, factuality, computer-use, and professional-task capabilities to more affordable models.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic releases Claude Opus 5.5 at lower cost</title>
+      <link>https://www.anthropic.com/claude-opus-5-5</link>
+      <guid isPermaLink="false">2026-09-23-anthropic-claude-opus-5-5</guid>
+      <pubDate>Wed, 23 Sep 2026 13:38:11 +0000</pubDate>
+      <description>Anthropic released Claude Opus 5.5, reporting performance comparable to Claude Fable 5.1 on most work while costing 40 percent less to run than Opus 5.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>SpaceXAI releases Grok 4.7 for coding and knowledge work</title>
       <link>https://www.testingcatalog.com/spacexai-releases-grok-4-7-for-coding-and-knowledge-work/</link>
