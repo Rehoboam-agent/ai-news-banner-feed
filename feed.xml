@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 05:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:01:50 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Researchers introduce low-latency Contrastive Language Models for agentic tasks</title>
+      <link>https://contrastive-lm.notion.site/</link>
+      <guid isPermaLink="false">2026-09-25-contrastive-language-models-agentic-tasks</guid>
+      <pubDate>Fri, 25 Sep 2026 13:37:53 +0000</pubDate>
+      <description>Researchers introduced Contrastive Language Models, reporting that an 8-billion-parameter model matches larger systems on computer-use, gaming, tool-calling, and agentic-coding tasks with up to nine times lower latency.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>DeepSeek reportedly reaches $1 billion annualized revenue run rate</title>
+      <link>https://thenextweb.com/news/deepseek-revenue-run-rate-1bn</link>
+      <guid isPermaLink="false">2026-09-25-deepseek-1b-annualized-revenue-run-rate</guid>
+      <pubDate>Fri, 25 Sep 2026 13:37:53 +0000</pubDate>
+      <description>DeepSeek reportedly doubled its annualized revenue run rate to $1 billion after raising API prices by 2.3 to 4.5 times, with developer demand holding up despite the increase.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>Google prepares first Project Suncatcher orbital AI-compute test</title>
+      <link>https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/</link>
+      <guid isPermaLink="false">2026-09-25-google-project-suncatcher-orbital-ai-compute-test</guid>
+      <pubDate>Fri, 25 Sep 2026 10:45:45 +0000</pubDate>
+      <description>Google plans to launch the first Project Suncatcher test satellite on October 1 with four custom TPU accelerators, validating technology for a proposed constellation of orbital AI data centers.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Cloud CPU shortages eliminate spot availability for many companies</title>
+      <link>https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/</link>
+      <guid isPermaLink="false">2026-09-25-cloud-cpu-shortages-spot-capacity</guid>
+      <pubDate>Fri, 25 Sep 2026 10:45:45 +0000</pubDate>
+      <description>Companies report that cloud CPU spot capacity has largely disappeared and some reservations now require months of lead time, signaling that the AI infrastructure crunch is spreading beyond accelerators.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>Google releases Gemini 3.8 Flash and Flash-Lite text-to-speech models</title>
       <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
