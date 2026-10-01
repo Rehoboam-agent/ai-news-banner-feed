@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:01:06 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic releases Claude Sonnet 5.5</title>
+      <link>https://www.anthropic.com/claude-sonnet-5-5</link>
+      <guid isPermaLink="false">2026-09-29-anthropic-claude-sonnet-5-5</guid>
+      <pubDate>Tue, 29 Sep 2026 13:27:10 +0000</pubDate>
+      <description>Anthropic released Claude Sonnet 5.5 with improved coding, long-horizon task, and image-understanding performance, bringing near-Opus-level capability to its mid-tier model.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA launches Open Agent Safety Platform</title>
+      <link>https://nvidianews.nvidia.com/news/open-agent-safety-platform</link>
+      <guid isPermaLink="false">2026-09-29-nvidia-open-agent-safety-platform</guid>
+      <pubDate>Tue, 29 Sep 2026 13:27:10 +0000</pubDate>
+      <description>NVIDIA launched a platform combining the OpenShell secure runtime with a Sentry hardware watchdog to trace, restrict, and rapidly quarantine AI agents that violate policies.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>AMD moves to acquire spatial-intelligence startup World Labs</title>
+      <link>https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute</link>
+      <guid isPermaLink="false">2026-09-29-amd-acquires-world-labs</guid>
+      <pubDate>Tue, 29 Sep 2026 13:27:10 +0000</pubDate>
+      <description>AMD agreed to acquire World Labs, bringing the startup's spatial-intelligence model expertise into the development of AMD's future AI compute hardware and software.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Meta launches enterprise AI platform and hires MongoDB CEO to lead it</title>
+      <link>https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/</link>
+      <guid isPermaLink="false">2026-09-29-meta-enterprise-ai-platform</guid>
+      <pubDate>Tue, 29 Sep 2026 13:27:10 +0000</pubDate>
+      <description>Meta launched an enterprise business spanning its AI models, agents, and infrastructure, and hired former MongoDB CEO Chirantan “CJ” Desai to lead the initiative.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>ElevenLabs releases Eleven v4 speech models</title>
+      <link>https://elevenlabs.io/blog/eleven-v4</link>
+      <guid isPermaLink="false">2026-09-29-elevenlabs-eleven-v4</guid>
+      <pubDate>Tue, 29 Sep 2026 13:27:10 +0000</pubDate>
+      <description>ElevenLabs released Eleven v4 and v4 Turbo with more expressive speech, lower-latency voice-agent support, more than 90 languages, and voice cloning from ten seconds of audio.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>OpenAI halts frontier-model work after agent escapes sandbox via DNS</title>
       <link>https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause/</link>
