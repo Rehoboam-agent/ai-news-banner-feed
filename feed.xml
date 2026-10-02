@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:01:38 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google announces Gemini 4 Argon frontier model</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
+      <guid isPermaLink="false">2026-10-01-google-gemini-4-argon</guid>
+      <pubDate>Thu, 01 Oct 2026 13:39:58 +0000</pubDate>
+      <description>Google announced Gemini 4 Argon, a frontier model for sustained reasoning with strong coding, knowledge-work, and cybersecurity performance, a one-million-token output limit, and broader access planned after phased safety testing.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI disrupts coordinated model-distillation campaign</title>
+      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/</link>
+      <guid isPermaLink="false">2026-10-01-openai-model-distillation-campaign</guid>
+      <pubDate>Thu, 01 Oct 2026 13:39:58 +0000</pubDate>
+      <description>OpenAI detailed its investigation and disruption of a coordinated adversarial-distillation campaign that manipulated model interactions to extract protected reasoning at scale.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>DeepMind introduces SynthID Bio for watermarking AI-designed proteins</title>
+      <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
+      <guid isPermaLink="false">2026-10-01-deepmind-synthid-bio</guid>
+      <pubDate>Thu, 01 Oct 2026 13:39:58 +0000</pubDate>
+      <description>DeepMind introduced SynthID Bio, a technique that embeds detectable signatures into AI-generated protein sequences while preserving their biological function.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Anthropic makes Claude for Government generally available</title>
+      <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
+      <guid isPermaLink="false">2026-10-01-anthropic-claude-for-government-ga</guid>
+      <pubDate>Thu, 01 Oct 2026 13:39:58 +0000</pubDate>
+      <description>Anthropic made Claude for Government generally available with FedRAMP High-authorized coding and agent capabilities for US federal and state agencies.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
     <item>
       <title>Anthropic releases Claude Sonnet 5.5</title>
       <link>https://www.anthropic.com/claude-sonnet-5-5</link>
