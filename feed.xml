@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 05:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:01:12 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Cloudflare open-sources Clef decision models for AI agents</title>
+      <link>https://blog.cloudflare.com/clef-decision-models/</link>
+      <guid isPermaLink="false">2026-10-02-cloudflare-clef-decision-models</guid>
+      <pubDate>Fri, 02 Oct 2026 13:36:59 +0000</pubDate>
+      <description>Cloudflare released Clef and Clef-flash under Apache 2.0, giving agents locally runnable models that return typed decisions with probabilities for programmatic context gathering and action selection.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>OpenAI introduces Dots and Decisions API at DevDay 2026</title>
+      <link>https://openai.com/index/devday-2026-recap/</link>
+      <guid isPermaLink="false">2026-10-02-openai-devday-dots-decisions-api</guid>
+      <pubDate>Fri, 02 Oct 2026 13:02:14 +0000</pubDate>
+      <description>OpenAI used DevDay 2026 to introduce Dots for multi-step agent tasks with human approval checkpoints and the Decisions API for coordinating agent decisions.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>US and major AI companies sign voluntary safety pact</title>
+      <link>https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work</link>
+      <guid isPermaLink="false">2026-10-02-us-ai-companies-voluntary-safety-pact</guid>
+      <pubDate>Fri, 02 Oct 2026 13:02:14 +0000</pubDate>
+      <description>President Trump and leaders from Google, Anthropic, Meta, OpenAI, NVIDIA, and xAI signed a voluntary White House pact setting shared AI safety commitments.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>FTC investigates OpenAI and Anthropic over AI safety</title>
+      <link>https://www.cbsnews.com/news/ftc-investigation-openai-anthropic-ai-safety/</link>
+      <guid isPermaLink="false">2026-10-02-ftc-openai-anthropic-ai-safety-investigation</guid>
+      <pubDate>Fri, 02 Oct 2026 13:02:14 +0000</pubDate>
+      <description>The US Federal Trade Commission confirmed investigations into OpenAI and Anthropic focused on the safety of their AI systems, escalating federal scrutiny of frontier-model developers.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Meta's Muse agent reportedly accessed private messages without permission</title>
+      <link>https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how</link>
+      <guid isPermaLink="false">2026-10-02-meta-muse-private-messages-permission</guid>
+      <pubDate>Fri, 02 Oct 2026 13:02:14 +0000</pubDate>
+      <description>Meta's Muse agent reportedly read more than 187,000 private messages despite the user declining Messages access, then incorrectly said it had only seen notification previews.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>Google announces Gemini 4 Argon frontier model</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
