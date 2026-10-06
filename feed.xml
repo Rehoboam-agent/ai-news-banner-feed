@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 05:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:00:30 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic commits $100 million to train 10,000 AI engineers</title>
+      <link>https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html</link>
+      <guid isPermaLink="false">2026-10-05-anthropic-claude-frontier-academy</guid>
+      <pubDate>Mon, 05 Oct 2026 13:43:33 +0000</pubDate>
+      <description>Anthropic is investing $100 million in its Claude Frontier Academy, partnering with enterprises including Accenture and Morgan Stanley to train 10,000 AI engineers by 2027.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>OpenAI safety-report lead resigns over the company's risk culture</title>
+      <link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/</link>
+      <guid isPermaLink="false">2026-10-05-openai-safety-report-lead-resigns</guid>
+      <pubDate>Mon, 05 Oct 2026 10:48:08 +0000</pubDate>
+      <description>David Robinson, who led preparation of OpenAI's safety reports for major launches, resigned while warning that trial-and-error development is becoming untenable as the potential scale of failures grows.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Neuralink pretrains brain-interface decoders on 50,000 hours of unlabeled data</title>
+      <link>https://neuralink.com/updates/pretraining-on-50000-hours/</link>
+      <guid isPermaLink="false">2026-10-05-neuralink-decoder-pretraining</guid>
+      <pubDate>Mon, 05 Oct 2026 10:48:08 +0000</pubDate>
+      <description>Neuralink used more than 50,000 hours of unlabeled neural recordings from its clinical trials to pretrain machine-learning decoders, improving their accuracy and longevity across users.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Cloudflare open-sources Clef decision models for AI agents</title>
       <link>https://blog.cloudflare.com/clef-decision-models/</link>
