@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 05:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:01:16 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI adds invisible text watermarks for EU ChatGPT and Codex outputs</title>
+      <link>https://openai.com/index/eu-text-provenance/</link>
+      <guid isPermaLink="false">2026-10-06-openai-eu-text-watermarks</guid>
+      <pubDate>Tue, 06 Oct 2026 13:28:25 +0000</pubDate>
+      <description>OpenAI said it will apply its textGrain provenance method to eligible ChatGPT and Codex outputs in the EU to meet AI Act transparency requirements.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Reflection AI introduces 501-billion-parameter Beam model</title>
+      <link>https://reflection.ai/blog/introducing-beam</link>
+      <guid isPermaLink="false">2026-10-06-reflection-ai-beam-model</guid>
+      <pubDate>Tue, 06 Oct 2026 13:28:25 +0000</pubDate>
+      <description>Beam is a sparse mixture-of-experts model with 501 billion total parameters and 23 billion active parameters, trained for coding, reasoning, and agentic workloads on 23.8 trillion pretraining tokens.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>Anthropic commits $100 million to train 10,000 AI engineers</title>
       <link>https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html</link>
