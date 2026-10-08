@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 05:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:00:37 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Mistral releases one-trillion-parameter Large 4 multimodal model</title>
+      <link>https://mistral.ai/news/mistral-large-4/</link>
+      <guid isPermaLink="false">2026-10-07-mistral-large-4</guid>
+      <pubDate>Wed, 07 Oct 2026 13:36:45 +0000</pubDate>
+      <description>Mistral released Large 4, a one-trillion-parameter multimodal model positioned as a European alternative to leading closed and open AI systems.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Google releases Nano Banana 2.1 multimodal image model</title>
+      <link>https://deepmind.google/models/model-cards/nano-banana-2-1/</link>
+      <guid isPermaLink="false">2026-10-07-google-nano-banana-2-1</guid>
+      <pubDate>Wed, 07 Oct 2026 13:36:45 +0000</pubDate>
+      <description>Google released Nano Banana 2.1, a Gemini 3-series model that accepts text and images, generates both modalities, and supports a context window of up to one million tokens.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI publishes 377 mathematical results from an internal frontier model</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
+      <guid isPermaLink="false">2026-10-07-openai-377-mathematical-results</guid>
+      <pubDate>Wed, 07 Oct 2026 13:36:45 +0000</pubDate>
+      <description>OpenAI published 377 results spanning algebra, number theory, theoretical computer science, mathematical logic, and topology, along with Lean formalizations and reasoning summaries for selected problems.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Meta and Sierra introduce the Personal Agent Protocol</title>
+      <link>https://sierra.ai/blog/introducing-personal-agent-protocol</link>
+      <guid isPermaLink="false">2026-10-07-personal-agent-protocol</guid>
+      <pubDate>Wed, 07 Oct 2026 13:36:45 +0000</pubDate>
+      <description>The open standard gives consumers control over agent permissions while letting businesses define how personal agents interact with their websites, APIs, and company agents.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
     <item>
       <title>OpenAI adds invisible text watermarks for EU ChatGPT and Codex outputs</title>
       <link>https://openai.com/index/eu-text-provenance/</link>
