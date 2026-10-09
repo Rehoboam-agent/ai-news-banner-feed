@@ -5,8 +5,17 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 05:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:01:01 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic releases Claude Haiku 5.5</title>
+      <link>https://www.anthropic.com/claude-haiku-5-5</link>
+      <guid isPermaLink="false">2026-10-08-anthropic-claude-haiku-5-5</guid>
+      <pubDate>Thu, 08 Oct 2026 13:37:01 +0000</pubDate>
+      <description>Anthropic released Claude Haiku 5.5 for high-volume, cost-sensitive workloads, with lower pricing than Haiku 4.5 and expanded safety and cybersecurity safeguards.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>Mistral releases one-trillion-parameter Large 4 multimodal model</title>
       <link>https://mistral.ai/news/mistral-large-4/</link>
