@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 05:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:00:22 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Microsoft unveils third-generation Maia 300 AI accelerator</title>
+      <link>https://news.microsoft.com/maia-2026/</link>
+      <guid isPermaLink="false">2026-10-13-microsoft-maia-300-accelerator</guid>
+      <pubDate>Tue, 13 Oct 2026 13:29:17 +0000</pubDate>
+      <description>Microsoft unveiled Maia 300, its third-generation in-house inference accelerator, as it expands its own AI-compute stack and reduces reliance on external GPU suppliers.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Meta releases Muse Wonder models for personal AI agents</title>
+      <link>https://research.meta.ai/blog/muse-wonder</link>
+      <guid isPermaLink="false">2026-10-13-meta-muse-wonder-models</guid>
+      <pubDate>Tue, 13 Oct 2026 13:29:17 +0000</pubDate>
+      <description>Meta released Muse Wonder through its Model API and Muse Code, pairing persistent user-context memory with a focus system designed to keep agents working through difficult goals and blockers.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>OpenAI says it dismissed three safety researchers over information-policy violations</title>
       <link>https://x.com/OpenAINewsroom/status/2108441580806025712</link>
