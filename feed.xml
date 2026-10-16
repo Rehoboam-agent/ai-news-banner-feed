@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 05:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:02:09 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>xAI releases Grok Voice 3.0 speech-to-speech model</title>
+      <link>https://x.ai/news/grok-voice-3</link>
+      <guid isPermaLink="false">2026-10-15-xai-grok-voice-3</guid>
+      <pubDate>Thu, 15 Oct 2026 13:38:25 +0000</pubDate>
+      <description>xAI released Grok Voice 3.0 through its Voice Agent API, reporting sub-second latency, leading independent speech-to-speech benchmark results, and deployment across millions of daily Tesla and SpaceX conversations.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic reports quarterly revenue jumped 45% to $16.8 billion</title>
+      <link>https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html</link>
+      <guid isPermaLink="false">2026-10-15-anthropic-quarterly-revenue-ipo</guid>
+      <pubDate>Thu, 15 Oct 2026 10:47:54 +0000</pubDate>
+      <description>Anthropic told investors its third-quarter revenue rose about 45% from the prior quarter to $16.8 billion as the AI lab pursues a potentially record-setting initial public offering.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>NVIDIA open-sources its full Run:ai GPU orchestration platform</title>
       <link>https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform</link>
