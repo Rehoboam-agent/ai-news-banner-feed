@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:00:36 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Meta releases 816-billion-parameter Muse Spark Open</title>
+      <link>https://research.meta.ai/blog/muse-spark-open</link>
+      <guid isPermaLink="false">2026-10-16-meta-muse-spark-open</guid>
+      <pubDate>Fri, 16 Oct 2026 13:39:51 +0000</pubDate>
+      <description>Meta released Muse Spark Open, a multimodal open-weight mixture-of-experts model with 816 billion total parameters, 42 billion active parameters, a one-million-token context window, and support for local inference across two M5 Ultra Mac Studios.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Microsoft details training of its 2.8-trillion-parameter MAI-Base-2 model</title>
+      <link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</link>
+      <guid isPermaLink="false">2026-10-16-microsoft-mai-base-2-training</guid>
+      <pubDate>Fri, 16 Oct 2026 13:39:51 +0000</pubDate>
+      <description>Microsoft disclosed its frontier pre-training stack for MAI-Base-2, a 2.8-trillion-parameter mixture-of-experts model with 80 billion active parameters, and outlined plans to bring internally trained models into Foundry.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Anthropic expands independent safety evaluator access to frontier models</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <guid isPermaLink="false">2026-10-16-anthropic-independent-evaluator-access</guid>
+      <pubDate>Fri, 16 Oct 2026 13:39:51 +0000</pubDate>
+      <description>Anthropic began giving METR employee-like access to models and training infrastructure so the independent organization can assess frontier-model risks and publish conclusions with greater autonomy.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>xAI releases Grok Voice 3.0 speech-to-speech model</title>
       <link>https://x.ai/news/grok-voice-3</link>
