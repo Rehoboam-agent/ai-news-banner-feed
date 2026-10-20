@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:00:29 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>DeepSeek releases V4.1 Flash for reasoning, coding, and agentic tasks</title>
+      <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
+      <guid isPermaLink="false">2026-10-19-deepseek-v4-1-flash-1017</guid>
+      <pubDate>Mon, 19 Oct 2026 13:43:46 +0000</pubDate>
+      <description>DeepSeek released V4.1 Flash, reporting substantial gains across reasoning, coding, agentic, and visual benchmarks while advancing the performance-cost frontier in multiple agent harnesses.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic commits 5% of its equity to a public-benefit fund</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <guid isPermaLink="false">2026-10-19-anthropic-public-benefit-fund</guid>
+      <pubDate>Mon, 19 Oct 2026 13:43:46 +0000</pubDate>
+      <description>Anthropic announced plans to allocate an initial 5% of its equity to a public-benefit fund focused on addressing AI's economic and labor impacts.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Replit makes OpenAI its preferred provider for Replit Agent</title>
+      <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+      <guid isPermaLink="false">2026-10-19-replit-openai-preferred-provider</guid>
+      <pubDate>Mon, 19 Oct 2026 13:43:46 +0000</pubDate>
+      <description>Replit replaced Anthropic with OpenAI as the preferred provider for Replit Agent, citing cost, performance, and partnership considerations while retaining user access to other supported models.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>Meta releases 816-billion-parameter Muse Spark Open</title>
       <link>https://research.meta.ai/blog/muse-spark-open</link>
