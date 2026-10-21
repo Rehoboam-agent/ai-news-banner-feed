@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:00:42 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>MiniMax releases M3.1 Flash for agentic workloads</title>
+      <link>https://www.minimax.io/blog/minimax-m31f</link>
+      <guid isPermaLink="false">2026-10-20-minimax-m3-1-flash</guid>
+      <pubDate>Tue, 20 Oct 2026 13:28:25 +0000</pubDate>
+      <description>MiniMax released M3.1 Flash with major gains in agentic tasks, coding, computer use, and cybersecurity, while reporting nearly three-times-faster online inference and 70% lower usage costs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Inception Labs launches diffusion language model Mercury 3</title>
+      <link>https://www.inceptionlabs.ai/blog/introducing-mercury-3</link>
+      <guid isPermaLink="false">2026-10-20-inception-labs-mercury-3</guid>
+      <pubDate>Tue, 20 Oct 2026 13:28:25 +0000</pubDate>
+      <description>Inception Labs released Mercury 3, a diffusion-based language model that reportedly outperformed GPT-6 Luna and Claude Haiku 5.5 across multiple evaluations.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Meta details its gigawatt-scale Prometheus AI supercluster</title>
+      <link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/</link>
+      <guid isPermaLink="false">2026-10-20-meta-prometheus-ai-supercluster</guid>
+      <pubDate>Tue, 20 Oct 2026 13:28:25 +0000</pubDate>
+      <description>Meta detailed the engineering behind Prometheus, its gigawatt-scale AI supercluster built to support training and deployment of the Muse model family.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Cloudflare introduces Clairic extraction models</title>
+      <link>https://blog.cloudflare.com/clairic-extraction-model</link>
+      <guid isPermaLink="false">2026-10-20-cloudflare-clairic-extraction-models</guid>
+      <pubDate>Tue, 20 Oct 2026 13:28:25 +0000</pubDate>
+      <description>Cloudflare introduced Clairic, a System One-style model class designed to extract, compute, estimate, and forecast structured values from unstructured inputs with lower latency and cost than traditional LLMs.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI model proves the quasi-Riemann hypothesis</title>
+      <link>https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/</link>
+      <guid isPermaLink="false">2026-10-20-openai-quasi-riemann-hypothesis-proof</guid>
+      <pubDate>Tue, 20 Oct 2026 10:31:16 +0000</pubDate>
+      <description>An OpenAI model produced a proof of the quasi-Riemann hypothesis, a major AI-for-mathematics result that establishes many consequences associated with the still-open Riemann hypothesis.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>DeepSeek releases V4.1 Flash for reasoning, coding, and agentic tasks</title>
       <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
