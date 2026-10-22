@@ -5,8 +5,62 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:01:50 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI moves to acquire drug-discovery startup Orchestra Bio</title>
+      <link>https://openai.com/index/openai-to-acquire-orchestra-bio/</link>
+      <guid isPermaLink="false">2026-10-21-openai-acquires-orchestra-bio</guid>
+      <pubDate>Wed, 21 Oct 2026 13:37:33 +0000</pubDate>
+      <description>OpenAI agreed to acquire Orchestra Bio, combining the startup's AI-powered drug-development work with OpenAI's life-sciences tools.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Mistral releases Voxtral 3 speech models and voice-agent SDK</title>
+      <link>https://mistral.ai/news/voxtral-3/</link>
+      <guid isPermaLink="false">2026-10-21-mistral-voxtral-3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:37:33 +0000</pubDate>
+      <description>Mistral released Voxtral 3 with speech models and a real-time voice-agent SDK spanning more than 50 languages, including transcription, emotional text-to-speech, tool use, and self-deployment options.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Google and Meta bring native PyTorch support to TPUs</title>
+      <link>https://pytorch.org/blog/introducing-torchtpu/</link>
+      <guid isPermaLink="false">2026-10-21-google-meta-torchtpu</guid>
+      <pubDate>Wed, 21 Oct 2026 13:37:33 +0000</pubDate>
+      <description>Google and Meta introduced TorchTPU, an open-source native PyTorch backend designed to make training and inference on Google's TPUs work without model rewrites.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>DeepSeek open-sources DeepInfer for large-scale model serving</title>
+      <link>https://github.com/deepseek-ai/DeepInfer</link>
+      <guid isPermaLink="false">2026-10-21-deepseek-deepinfer</guid>
+      <pubDate>Wed, 21 Oct 2026 13:37:33 +0000</pubDate>
+      <description>DeepSeek released DeepInfer, a high-performance inference framework derived from its production stack for serving DeepSeek models at scale.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Anthropic draft IPO filing reveals huge growth, losses, and compute plans</title>
+      <link>https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1</link>
+      <guid isPermaLink="false">2026-10-21-anthropic-draft-ipo-filing</guid>
+      <pubDate>Wed, 21 Oct 2026 10:33:57 +0000</pubDate>
+      <description>Anthropic's draft IPO prospectus reportedly shows breakneck revenue growth, a net loss exceeding $80 billion in the first half of 2026, and potential compute spending of $750 billion over the next several years.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>Claude designs lab-validated binders for scorpion neurotoxins</title>
+      <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+      <guid isPermaLink="false">2026-10-21-claude-scorpion-toxin-binders</guid>
+      <pubDate>Wed, 21 Oct 2026 10:33:57 +0000</pubDate>
+      <description>An internal Anthropic research model designed minibinders against scorpion neurotoxins, with 17 of 211 tested designs meeting lab criteria, though neutralization and antivenom efficacy remain unproven.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>MiniMax releases M3.1 Flash for agentic workloads</title>
       <link>https://www.minimax.io/blog/minimax-m31f</link>
