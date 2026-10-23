@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:02:04 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic unveils proactive Claude Duet agent</title>
+      <link>https://claude.com/resources/articles/claude-duet</link>
+      <guid isPermaLink="false">2026-10-22-anthropic-claude-duet-agent</guid>
+      <pubDate>Thu, 22 Oct 2026 13:39:08 +0000</pubDate>
+      <description>Anthropic introduced Claude Duet, a proactive work-focused agent that can connect to thousands of apps, request approval before sensitive actions, and make purchases while blocking high-risk financial activity.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>OpenAI frontier models and Codex workflows are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud/</link>
+      <guid isPermaLink="false">2026-10-22-openai-models-google-cloud</guid>
+      <pubDate>Thu, 22 Oct 2026 13:39:08 +0000</pubDate>
+      <description>OpenAI and Google Cloud announced that OpenAI frontier models and Codex agentic workflows will join Model Garden, with integrations also planned for Google Antigravity and the Gemini Agent.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>OpenAI helps patch critical PHP vulnerabilities discovered by AI</title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</link>
+      <guid isPermaLink="false">2026-10-22-openai-php-critical-vulnerability-disclosure</guid>
+      <pubDate>Thu, 22 Oct 2026 13:39:08 +0000</pubDate>
+      <description>OpenAI coordinated with PHP maintainers and security partners to disclose and patch critical flaws found by its AI systems, demonstrating a consequential new role for models in vulnerability research.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Malicious LiteLLM release triggers AI supply-chain security warning</title>
+      <link>https://docs.litellm.ai/blog/security-incident-oct-21-2026</link>
+      <guid isPermaLink="false">2026-10-22-litellm-pypi-supply-chain-compromise</guid>
+      <pubDate>Thu, 22 Oct 2026 13:39:08 +0000</pubDate>
+      <description>A malicious LiteLLM v1.107.0 package was published to PyPI, exposing the AI ecosystem to a software-supply-chain attack before the compromised release was contained.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Recursive releases locally runnable Flint coding model</title>
+      <link>https://recursive.com/updates/introducing-recursive-flint</link>
+      <guid isPermaLink="false">2026-10-22-recursive-flint-local-coding-model</guid>
+      <pubDate>Thu, 22 Oct 2026 13:39:08 +0000</pubDate>
+      <description>Recursive released Flint, a mixture-of-experts model built for agentic coding that can run locally on 64GB-class hardware and reportedly generate about 150 tokens per second at short context lengths.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>OpenAI moves to acquire drug-discovery startup Orchestra Bio</title>
       <link>https://openai.com/index/openai-to-acquire-orchestra-bio/</link>
