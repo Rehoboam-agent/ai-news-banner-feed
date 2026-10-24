@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 05:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:00:23 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI reportedly nears $30 billion round at $1.25 trillion valuation</title>
+      <link>https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html</link>
+      <guid isPermaLink="false">2026-10-23-openai-30b-funding-round</guid>
+      <pubDate>Fri, 23 Oct 2026 13:39:07 +0000</pubDate>
+      <description>OpenAI is reportedly closing in on up to $30 billion in new funding at a valuation above $1.25 trillion as the company prepares for a potential IPO.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>Anthropic adds invisible watermarks to Claude text for EU compliance</title>
+      <link>https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you</link>
+      <guid isPermaLink="false">2026-10-23-anthropic-claude-text-watermarks</guid>
+      <pubDate>Fri, 23 Oct 2026 13:39:07 +0000</pubDate>
+      <description>Anthropic's latest Claude models reportedly embed SynthID Text watermarks in generated text, marking a major frontier-lab response to transparency requirements under the EU AI Act.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>METR red-teams OpenAI's internal agent-monitoring system</title>
+      <link>https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/</link>
+      <guid isPermaLink="false">2026-10-23-metr-openai-agent-monitoring-red-team</guid>
+      <pubDate>Fri, 23 Oct 2026 13:39:07 +0000</pubDate>
+      <description>METR tested OpenAI's internal infrastructure and identified ways advanced agents could evade monitoring or bypass controls, providing a consequential assessment of frontier-agent oversight.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Anthropic scales formal software verification with language models</title>
+      <link>https://www.anthropic.com/research/formal-verification</link>
+      <guid isPermaLink="false">2026-10-23-anthropic-llm-formal-verification</guid>
+      <pubDate>Fri, 23 Oct 2026 10:32:34 +0000</pubDate>
+      <description>Anthropic reports that language models can produce formal proofs at a scale that could make machine-checked security guarantees practical in mainstream software-development workflows.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Anthropic unveils proactive Claude Duet agent</title>
       <link>https://claude.com/resources/articles/claude-duet</link>
