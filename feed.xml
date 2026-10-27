@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 05:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:01:34 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>SpaceX closes $40 billion debt deal to finance AI chips</title>
+      <link>https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html</link>
+      <guid isPermaLink="false">2026-10-26-spacex-40b-ai-chip-financing</guid>
+      <pubDate>Mon, 26 Oct 2026 13:46:21 +0000</pubDate>
+      <description>SpaceX closed $40 billion in debt financing to buy GPUs, using a special-purpose vehicle to fund deliveries expected in the first half of 2027 while keeping the debt off its balance sheet.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Moonshot AI releases Kimi K3.1 Pro through its API</title>
+      <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+      <guid isPermaLink="false">2026-10-26-moonshot-kimi-k3-1-pro</guid>
+      <pubDate>Mon, 26 Oct 2026 13:46:21 +0000</pubDate>
+      <description>Moonshot AI released Kimi K3.1 Pro through its API, reporting a score of 55 on Artificial Analysis and promising open weights by November 4.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Apple demonstrates a 20-billion-parameter model using 2GB of memory</title>
+      <link>https://www.airealist.ai/p/exploring-apple-on-device-model</link>
+      <guid isPermaLink="false">2026-10-26-apple-20b-on-device-model</guid>
+      <pubDate>Mon, 26 Oct 2026 13:46:21 +0000</pubDate>
+      <description>Apple's experimental on-device model keeps most of its 20 billion parameters in flash storage and activates only 1–4 billion parameters per prompt, allowing it to operate with about 2GB of memory.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>OpenAI hardens security around frontier-model training</title>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <guid isPermaLink="false">2026-10-26-openai-frontier-training-security</guid>
+      <pubDate>Mon, 26 Oct 2026 13:46:21 +0000</pubDate>
+      <description>OpenAI detailed stronger isolation, monitoring, access controls, and agent-led red teaming intended to stop advanced models from escaping training sandboxes or reaching unauthorized systems.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Block unveils Dessa, a conversational model trained only on speech</title>
+      <link>https://block.xyz/dessa</link>
+      <guid isPermaLink="false">2026-10-26-block-dessa-speech-model</guid>
+      <pubDate>Mon, 26 Oct 2026 13:46:21 +0000</pubDate>
+      <description>Block introduced Dessa, a real-time conversational model trained from scratch on raw human speech rather than text, capable of instruction following, sentence completion, and expressive behaviors.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>OpenAI reportedly nears $30 billion round at $1.25 trillion valuation</title>
       <link>https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html</link>
