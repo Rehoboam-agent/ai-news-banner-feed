@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:01:02 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI releases GPT-6.1 Terra</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
+      <guid isPermaLink="false">2026-10-27-openai-gpt-6-1-terra</guid>
+      <pubDate>Tue, 27 Oct 2026 13:26:12 +0000</pubDate>
+      <description>OpenAI released GPT-6.1 Terra, a faster and more cost-efficient frontier model with improved visual reasoning, computer use, and writing capabilities.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic files for an IPO</title>
+      <link>https://www.anthropic.com/news/s1-sec</link>
+      <guid isPermaLink="false">2026-10-27-anthropic-s1-ipo-filing</guid>
+      <pubDate>Tue, 27 Oct 2026 13:26:12 +0000</pubDate>
+      <description>Anthropic filed its S-1 registration statement with the SEC, moving the frontier AI lab toward a public listing and disclosing its business, risks, and financial position.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>Meta plans $95 billion stock offering to fund AI expansion</title>
+      <link>https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html</link>
+      <guid isPermaLink="false">2026-10-27-meta-95b-stock-offering-ai-expansion</guid>
+      <pubDate>Tue, 27 Oct 2026 13:26:12 +0000</pubDate>
+      <description>Meta announced plans for a $95 billion stock offering to finance its AI expansion, underscoring the scale of capital required for frontier-model infrastructure.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
+    <item>
+      <title>OpenAI publishes three model-produced scientific results</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+      <guid isPermaLink="false">2026-10-27-openai-model-produced-scientific-results</guid>
+      <pubDate>Tue, 27 Oct 2026 13:26:12 +0000</pubDate>
+      <description>OpenAI announced model-produced results in harmonic analysis, complexity theory, and quantum field theory, and is releasing materials or convening external researchers to scrutinize and explain them.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>SpaceX closes $40 billion debt deal to finance AI chips</title>
       <link>https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html</link>
