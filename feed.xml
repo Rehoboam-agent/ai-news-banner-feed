@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:01:28 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Axiom Math formalizes the 15,000-page Classification of Finite Simple Groups</title>
+      <link>https://axiommath.ai/research/the-enormous-theorem-formalized/</link>
+      <guid isPermaLink="false">2026-10-28-axiom-math-cfsg-formalization</guid>
+      <pubDate>Wed, 28 Oct 2026 13:38:22 +0000</pubDate>
+      <description>Axiom Math directed swarms of AI agents for 24 days to produce the first complete computer-checked proof of the Classification of Finite Simple Groups, formalizing a landmark human proof spanning roughly 15,000 pages.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Google DeepMind introduces Genie 4 world model</title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <guid isPermaLink="false">2026-10-28-google-deepmind-genie-4</guid>
+      <pubDate>Wed, 28 Oct 2026 13:38:22 +0000</pubDate>
+      <description>Google DeepMind introduced Genie 4, a world model that generates photorealistic interactive environments with synchronized audio, real-time prompt editing, and simulations lasting up to two minutes.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic says Claude found a subexponential 3-SAT algorithm</title>
+      <link>https://github.com/anthropics/formal-math/tree/main/eth</link>
+      <guid isPermaLink="false">2026-10-28-anthropic-claude-eth-refutation</guid>
+      <pubDate>Wed, 28 Oct 2026 13:38:22 +0000</pubDate>
+      <description>Anthropic says an internal Claude research model independently found and formalized a deterministic subexponential algorithm for counting 3-SAT solutions, a result that would refute the Exponential Time Hypothesis.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Anthropic launches internal AI-driven drug-discovery programs</title>
+      <link>https://www.anthropic.com/research/early-progress-drug-development</link>
+      <guid isPermaLink="false">2026-10-28-anthropic-drug-development-programs</guid>
+      <pubDate>Wed, 28 Oct 2026 13:38:22 +0000</pubDate>
+      <description>Anthropic partnered with six pharmaceutical and biotechnology organizations and launched internal drug-discovery programs for rare childhood diseases, with Claude handling substantial scientific and operational work.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Liquid AI releases open-weight LFM3 family for on-device AI</title>
+      <link>https://www.liquid.ai/blog/lfm3</link>
+      <guid isPermaLink="false">2026-10-28-liquid-ai-lfm3</guid>
+      <pubDate>Wed, 28 Oct 2026 13:38:22 +0000</pubDate>
+      <description>Liquid AI released LFM3, a family of compact open-weight text, vision, audio, multimodal, and decision models designed for on-device agents, including a 1.7-billion-parameter text model with a 256K context window.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
     <item>
       <title>OpenAI releases GPT-6.1 Terra</title>
       <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
