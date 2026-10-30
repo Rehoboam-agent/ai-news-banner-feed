@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 06:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:01:10 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google introduces Gemini 4 Carbon frontier model</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <guid isPermaLink="false">2026-10-29-google-gemini-4-carbon</guid>
+      <pubDate>Thu, 29 Oct 2026 13:38:44 +0000</pubDate>
+      <description>Google introduced Gemini 4 Carbon with improved cybersecurity and complex software-engineering capabilities, initially limiting access to selected cybersecurity defenders while it strengthens the model's guardrails.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>GitHub Copilot Fusion orchestrates multiple models for coding tasks</title>
+      <link>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/</link>
+      <guid isPermaLink="false">2026-10-29-github-copilot-fusion</guid>
+      <pubDate>Thu, 29 Oct 2026 13:38:44 +0000</pubDate>
+      <description>GitHub introduced Copilot Fusion, a multi-model orchestration system that selects and combines models for each coding task while allowing administrators to control which models are available.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>Axiom Math formalizes the 15,000-page Classification of Finite Simple Groups</title>
       <link>https://axiommath.ai/research/the-enormous-theorem-formalized/</link>
