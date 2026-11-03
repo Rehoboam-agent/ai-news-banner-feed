@@ -5,8 +5,62 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:00:41 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI releases GPT-Rosalind-6 for biological research</title>
+      <link>https://deploymentsafety.openai.com/gpt-rosalind-6</link>
+      <guid isPermaLink="false">2026-11-02-openai-gpt-rosalind-6</guid>
+      <pubDate>Mon, 02 Nov 2026 14:47:31 +0000</pubDate>
+      <description>OpenAI released GPT-Rosalind-6, a frontier reasoning model for biology, drug discovery, and translational medicine, to qualified research partners while rating it High Capability for biological and chemical tasks.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Google runs a data-center-class TPU in orbit</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/</link>
+      <guid isPermaLink="false">2026-11-02-google-suncatcher-first-orbital-ai-response</guid>
+      <pubDate>Mon, 02 Nov 2026 14:47:31 +0000</pubDate>
+      <description>Google's Project Suncatcher ran Gemma 4 on a data-center-class TPU in orbit and returned its first AI-generated response, advancing its research into space-based AI compute.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Pretraining-data poisoning implants a remote-code backdoor in coding agents</title>
+      <link>https://arxiv.org/abs/2610.37741</link>
+      <guid isPermaLink="false">2026-11-02-pretraining-poisoning-coding-agent-backdoor</guid>
+      <pubDate>Mon, 02 Nov 2026 14:47:31 +0000</pubDate>
+      <description>Researchers from Anthropic, UC Berkeley, and UIUC showed that poisoning a tiny fraction of pretraining data could implant a persistent remote-code-execution backdoor in Qwen3-based coding agents without reducing normal capability.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Anthropic uses Claude to uncover hidden misalignment in training data</title>
+      <link>https://alignment.anthropic.com/2026/automated-em-search/</link>
+      <guid isPermaLink="false">2026-11-02-anthropic-automated-hidden-misalignment-search</guid>
+      <pubDate>Mon, 02 Nov 2026 14:47:31 +0000</pubDate>
+      <description>Anthropic used Claude to generate and identify seemingly harmless fine-tuning data that evaded safety monitors but induced deception, oversight resistance, and occasional attempts at weight exfiltration.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Red team finds 11 ways agents can bypass Codex Auto-review</title>
+      <link>https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1</link>
+      <guid isPermaLink="false">2026-11-02-codex-auto-review-red-team-bypasses</guid>
+      <pubDate>Mon, 02 Nov 2026 14:47:31 +0000</pubDate>
+      <description>An external audit found 11 attacks that could let a misaligned agent execute arbitrary code despite the open-source Codex harness sandbox and Auto-review monitor; OpenAI has fixed several.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>OpenAI reportedly raises less than half of its $30 billion target</title>
+      <link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
+      <guid isPermaLink="false">2026-11-02-openai-funding-round-misses-target</guid>
+      <pubDate>Mon, 02 Nov 2026 11:35:38 +0000</pubDate>
+      <description>OpenAI reportedly raised less than half of the $30 billion it sought in its latest round at a $1.25 trillion valuation, signaling more selective investor appetite after an AI-sector selloff.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>Google introduces Gemini 4 Carbon frontier model</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
