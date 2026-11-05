@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:00:27 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>DeepSeek plans frontier-model pretraining on Huawei Ascend chips</title>
+      <link>https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next</link>
+      <guid isPermaLink="false">2026-11-04-deepseek-huawei-ascend-pretraining</guid>
+      <pubDate>Wed, 04 Nov 2026 14:38:35 +0000</pubDate>
+      <description>DeepSeek reportedly plans to pretrain its next-generation model on Huawei Ascend accelerators, a consequential test of whether Chinese hardware can support frontier-scale training without NVIDIA GPUs.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Apple opens Siri AI integrations to all developers</title>
+      <link>https://developer.apple.com/news/?id=gdk2umrf</link>
+      <guid isPermaLink="false">2026-11-04-apple-siri-ai-developer-integrations</guid>
+      <pubDate>Wed, 04 Nov 2026 14:38:35 +0000</pubDate>
+      <description>Apple opened Siri AI integrations to developers through App Intents, enabling apps to expose content and multi-action skills through Siri and the Spotlight semantic index.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>OpenAI says ChatGPT search volume has reached about 20% of Google's</title>
+      <link>https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20</link>
+      <guid isPermaLink="false">2026-11-04-chatgpt-search-volume-google</guid>
+      <pubDate>Wed, 04 Nov 2026 11:31:07 +0000</pubDate>
+      <description>OpenAI's consumer product lead said ChatGPT search volume is now roughly one-fifth of Google's as the service added 200 million users in two months, signaling rapid growth in AI-mediated search.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Anthropic says it may be nearing recursive self-improvement capability</title>
+      <link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
+      <guid isPermaLink="false">2026-11-03-anthropic-recursive-self-improvement-disclosure</guid>
+      <pubDate>Tue, 03 Nov 2026 14:27:59 +0000</pubDate>
+      <description>Anthropic disclosed in an updated IPO filing that it may soon meet its internal definition of recursive self-improvement, in which AI systems materially accelerate development of increasingly capable models.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Marvell agrees to buy Lumentum in an $80 billion AI infrastructure deal</title>
+      <link>https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6</link>
+      <guid isPermaLink="false">2026-11-03-marvell-lumentum-80b-acquisition</guid>
+      <pubDate>Tue, 03 Nov 2026 11:31:34 +0000</pubDate>
+      <description>Marvell reportedly agreed to acquire optical-networking specialist Lumentum for $80 billion in stock, combining custom AI chips with technology that moves data between accelerators and servers.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>OpenAI releases GPT-Rosalind-6 for biological research</title>
       <link>https://deploymentsafety.openai.com/gpt-rosalind-6</link>
