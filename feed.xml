@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 06:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:00:35 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic releases Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <guid isPermaLink="false">2026-11-10-anthropic-claude-fable-mythos-5-2</guid>
+      <pubDate>Tue, 10 Nov 2026 14:30:27 +0000</pubDate>
+      <description>Anthropic released Claude Fable 5.2 and Mythos 5.2, advancing its frontier model family with stronger capabilities, longer output generation, and lower pricing.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Google expands TPU 8 with secure and long-context AI chips</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</link>
+      <guid isPermaLink="false">2026-11-10-google-tpu-8i-max-8tx</guid>
+      <pubDate>Tue, 10 Nov 2026 14:30:27 +0000</pubDate>
+      <description>Google introduced TPU 8tx for secure and confidential workloads and TPU 8i Max for long-context AI applications, broadening its challenge to NVIDIA in specialized AI infrastructure.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Meta introduces compact Muse Ember reasoning model</title>
+      <link>https://research.meta.ai/blog/muse-ember</link>
+      <guid isPermaLink="false">2026-11-10-meta-muse-ember</guid>
+      <pubDate>Tue, 10 Nov 2026 14:30:27 +0000</pubDate>
+      <description>Meta introduced Muse Ember, a small reasoning model optimized for agentic tool use, coding, and document parsing that it says reaches the highest reasoning score of Claude Haiku 5.5.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>AI-assisted proof resolves the Aaronson-Ambainis conjecture</title>
+      <link>https://psi.inc/research/aaronson-ambainis/</link>
+      <guid isPermaLink="false">2026-11-09-ai-aaronson-ambainis-proof</guid>
+      <pubDate>Mon, 09 Nov 2026 14:43:55 +0000</pubDate>
+      <description>Researchers at PSI report an AI-assisted, formally verified proof of the Aaronson-Ambainis conjecture, resolving a longstanding open problem connecting quantum query complexity and classical approximation.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Anthropic buys 1.7 gigawatts of gas generation for AI infrastructure</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</link>
+      <guid isPermaLink="false">2026-11-09-anthropic-1-7gw-gas-generation</guid>
+      <pubDate>Mon, 09 Nov 2026 14:30:27 +0000</pubDate>
+      <description>Anthropic reportedly committed $3.4 billion for 1.7 gigawatts of Caterpillar gas generators, moving the AI lab deeper into physical power infrastructure as grid access constrains data-center expansion.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
     <item>
       <title>DeepSeek plans frontier-model pretraining on Huawei Ascend chips</title>
       <link>https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next</link>
