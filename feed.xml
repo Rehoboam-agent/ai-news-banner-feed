@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:01:18 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google launches Gemini Decisions API for high-volume multimodal classification</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <guid isPermaLink="false">2026-11-12-google-gemini-decisions-api</guid>
+      <pubDate>Thu, 12 Nov 2026 14:39:02 +0000</pubDate>
+      <description>Google launched the Gemini Decisions API and Gemini Decision 1 model for calibrated yes-or-no, multiple-choice, and ranking decisions across text, images, audio, video, and PDFs at high volume.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA reportedly begins search for Jensen Huang&apos;s successor</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</link>
+      <guid isPermaLink="false">2026-11-12-nvidia-ceo-succession-search</guid>
+      <pubDate>Thu, 12 Nov 2026 11:35:39 +0000</pubDate>
+      <description>NVIDIA is reportedly working with an outside firm to identify potential CEO candidates, signaling possible leadership change at the company that dominates the AI accelerator market.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
     <item>
       <title>Google makes Gemini 4 Carbon broadly available</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
