@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:01:04 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google introduces Gemini 4 Hydrogen for coding and agentic workflows</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">2026-11-13-google-gemini-4-hydrogen</guid>
+      <pubDate>Fri, 13 Nov 2026 14:39:12 +0000</pubDate>
+      <description>Google introduced Gemini 4 Hydrogen, a fast, efficient frontier model optimized for coding and agentic workflows that it says surpasses Gemini 4 Argon on the Artificial Analysis Intelligence Index.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic offers self-hosted Claude Managed Agents</title>
+      <link>https://claude.com/resources/articles/self-hosted-claude-managed-agents</link>
+      <guid isPermaLink="false">2026-11-13-anthropic-self-hosted-claude-managed-agents</guid>
+      <pubDate>Fri, 13 Nov 2026 14:39:12 +0000</pubDate>
+      <description>Anthropic opened a private beta that lets enterprises run Claude Managed Agents, including sandboxes and credential services, within their own security perimeter for tighter control over agent operations.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>Forensic study links leading Chinese models to NVIDIA Blackwell hardware</title>
+      <link>https://unemploymentlabs.com/checkpoint-forensics</link>
+      <guid isPermaLink="false">2026-11-13-chinese-models-blackwell-hardware-forensics</guid>
+      <pubDate>Fri, 13 Nov 2026 14:39:12 +0000</pubDate>
+      <description>A forensic analysis found numerical patterns associated with NVIDIA Blackwell GPUs in six recent models from DeepSeek, Moonshot AI, MiniMax, and Ant Group, suggesting access to export-controlled hardware without establishing how it was obtained.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
+    <item>
+      <title>Jensen Huang resigns as NVIDIA CEO</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
+      <guid isPermaLink="false">2026-11-13-nvidia-jensen-huang-ceo-transition</guid>
+      <pubDate>Fri, 13 Nov 2026 11:31:53 +0000</pubDate>
+      <description>Jensen Huang resigned as NVIDIA CEO, finance chief Colette Kress became interim CEO, and longtime director Harvey C. Jones became the company&apos;s first board chair.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
     <item>
       <title>Google launches Gemini Decisions API for high-volume multimodal classification</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
