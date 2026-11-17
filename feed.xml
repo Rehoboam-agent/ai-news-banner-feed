@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:29 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI launches ChatGPT Wallet for agent purchases</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet/</link>
+      <guid isPermaLink="false">2026-11-16-openai-chatgpt-wallet</guid>
+      <pubDate>Mon, 16 Nov 2026 14:44:36 +0000</pubDate>
+      <description>OpenAI introduced ChatGPT Wallet, allowing AI agents to make purchases without accessing a user&apos;s actual card details while requiring a security check for every transaction.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Product Launch</ai:category>
+    </item>
+    <item>
+      <title>Qwen releases Qwen4-Max for professional and creative agent workflows</title>
+      <link>https://qwen.ai/blog?id=qwen4-max</link>
+      <guid isPermaLink="false">2026-11-16-qwen4-max</guid>
+      <pubDate>Mon, 16 Nov 2026 14:44:36 +0000</pubDate>
+      <description>Qwen released Qwen4-Max for complex professional and creative work, including scientific discovery, 3D creation, manufacturing, finance, law, healthcare, and end-to-end game development.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>GPT-6 Astra helps formulate a nonperturbative Standard Model framework</title>
+      <link>https://openai.com/index/step-toward-defining-the-standard-model/</link>
+      <guid isPermaLink="false">2026-11-16-gpt-6-astra-standard-model-framework</guid>
+      <pubDate>Mon, 16 Nov 2026 14:44:36 +0000</pubDate>
+      <description>Physicist Nathaniel Craig worked with GPT-6 Astra on a candidate lattice formulation of the Standard Model, with the model helping construct the mathematical framework and a detailed supporting proof.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Google introduces Gemini 4 Hydrogen for coding and agentic workflows</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
