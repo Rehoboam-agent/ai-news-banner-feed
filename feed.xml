@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:01:04 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>NVIDIA introduces Rubin HPC GPU for AI-driven simulation</title>
+      <link>https://blogs.nvidia.com/blog/rubin-hpc/</link>
+      <guid isPermaLink="false">2026-11-17-nvidia-rubin-hpc</guid>
+      <pubDate>Tue, 17 Nov 2026 14:28:50 +0000</pubDate>
+      <description>NVIDIA introduced Rubin HPC, a GPU designed to accelerate the simulations used by AI agents in science, engineering, and analytics, with availability planned for 2028.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Analysis finds Claude was trained on protein sequences at scale</title>
+      <link>https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
+      <guid isPermaLink="false">2026-11-17-claude-protein-sequence-training-analysis</guid>
+      <pubDate>Tue, 17 Nov 2026 14:28:50 +0000</pubDate>
+      <description>An independent analysis found that recent Claude models can predict continuations of little-studied bacterial proteins, providing evidence of large-scale protein-sequence training and unexpected biological modeling capability.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Tencent releases fast, low-cost Hy4 Flash model</title>
+      <link>https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/</link>
+      <guid isPermaLink="false">2026-11-17-tencent-hy4-flash</guid>
+      <pubDate>Tue, 17 Nov 2026 14:28:50 +0000</pubDate>
+      <description>Tencent released Hy4 Flash, a speed- and cost-optimized model for everyday AI workflows whose reported user-satisfaction scores approached Claude Haiku 5.5.</description>
+      <ai:importance>7</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>US closes remote-access loophole in AI chip export controls</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/</link>
+      <guid isPermaLink="false">2026-11-17-us-remote-ai-chip-export-controls</guid>
+      <pubDate>Tue, 17 Nov 2026 11:31:03 +0000</pubDate>
+      <description>The US Commerce Department will require licenses, customer checks, and monthly reporting for high-volume advanced-chip transfers to data centers in countries considered at risk of diversion to China, Russia, or Iran.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Policy &amp; Regulation</ai:category>
+    </item>
     <item>
       <title>OpenAI launches ChatGPT Wallet for agent purchases</title>
       <link>https://openai.com/index/introducing-chatgpt-wallet/</link>
