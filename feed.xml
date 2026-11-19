@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:00:49 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>OpenAI releases GPT-6.2 Astra and Sol</title>
+      <link>https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/?utm_source=tldrnewsletter</link>
+      <guid isPermaLink="false">2026-11-18-openai-gpt-6-2-astra-sol</guid>
+      <pubDate>Wed, 18 Nov 2026 14:39:54 +0000</pubDate>
+      <description>OpenAI released GPT-6.2 Astra for frontier professional work and GPT-6.2 Sol for efficient everyday tasks, with both models rolling out across ChatGPT Work, Codex, and the API.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Microsoft AI releases seven low-cost models</title>
+      <link>https://microsoft.ai/news/microsoft-ignite-2026/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-11-18-microsoft-ai-seven-models</guid>
+      <pubDate>Wed, 18 Nov 2026 14:39:54 +0000</pubDate>
+      <description>Microsoft AI released seven models designed for strong performance at low cost, including the MAI Code 2 coding model now available in GitHub Copilot.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Replit launches Missions for autonomous agent teams</title>
+      <link>https://replit.com/blog/introducing-replit-missions?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-11-18-replit-missions-agent-teams</guid>
+      <pubDate>Wed, 18 Nov 2026 14:39:54 +0000</pubDate>
+      <description>Replit launched Missions, a system for coordinating teams of AI agents on ambitious software projects by giving them shared goals and constraints.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>NVIDIA introduces Rubin HPC GPU for AI-driven simulation</title>
       <link>https://blogs.nvidia.com/blog/rubin-hpc/</link>
