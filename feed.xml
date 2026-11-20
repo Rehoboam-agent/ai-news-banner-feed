@@ -5,8 +5,35 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Google introduces frontier Gemini 4 Neon model</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="false">2026-11-19-google-gemini-4-neon</guid>
+      <pubDate>Thu, 19 Nov 2026 14:41:06 +0000</pubDate>
+      <description>Google introduced Gemini 4 Neon, a fast frontier-level model with a one-million-token context window, releasing it across Gemini, Antigravity, and its APIs.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI models reduce key AI-chip circuit area by up to 13%</title>
+      <link>https://openai.com/index/advancing-chip-design-with-openai-models/</link>
+      <guid isPermaLink="false">2026-11-19-openai-models-chip-design</guid>
+      <pubDate>Thu, 19 Nov 2026 14:41:06 +0000</pubDate>
+      <description>Design changes proposed by OpenAI models reduced the estimated circuit area of key parts of the Jalapeño AI chip by 10% to 13%, demonstrating practical AI-assisted hardware optimization.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Anthropic raises $81.3 billion in record IPO</title>
+      <link>https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html</link>
+      <guid isPermaLink="false">2026-11-19-anthropic-record-ipo</guid>
+      <pubDate>Thu, 19 Nov 2026 11:36:19 +0000</pubDate>
+      <description>Anthropic sold about 980 million shares at $83 each, raising $81.3 billion in the largest IPO on record and reaching a fully diluted valuation of roughly $1.5 trillion.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Market &amp; Funding</ai:category>
+    </item>
     <item>
       <title>OpenAI releases GPT-6.2 Astra and Sol</title>
       <link>https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/?utm_source=tldrnewsletter</link>
