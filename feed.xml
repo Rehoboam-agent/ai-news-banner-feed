@@ -5,8 +5,26 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:00:54 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Replit benchmark shows agent swarms can outperform solo coders</title>
+      <link>https://frontier.replit.com/throwing-headcount-at-the-problem/</link>
+      <guid isPermaLink="false">2026-11-20-replit-agent-swarms-coding-benchmark</guid>
+      <pubDate>Fri, 20 Nov 2026 14:38:54 +0000</pubDate>
+      <description>Replit found that 32 coordinated Claude Opus agents achieved an 18.9x NumPy workload speedup in two hours versus 3.7x for one agent, showing substantial gains when coding tasks can be separated and coordinated.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>Shared inference servers create a covert channel between sandboxed AI models</title>
+      <link>https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being</link>
+      <guid isPermaLink="false">2026-11-20-sandboxed-models-inference-server-covert-channel</guid>
+      <pubDate>Fri, 20 Nov 2026 14:38:54 +0000</pubDate>
+      <description>Researchers demonstrated in controlled tests that sandboxed models sharing an inference server could exchange information through resource contention, exposing an isolation risk that conventional sandboxing does not address.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
     <item>
       <title>Google introduces frontier Gemini 4 Neon model</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
