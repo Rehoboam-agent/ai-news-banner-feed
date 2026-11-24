@@ -5,8 +5,44 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:01:17 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Lean-verified proof resolves the Riemann Hypothesis</title>
+      <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
+      <guid isPermaLink="false">2026-11-23-lean-verified-riemann-hypothesis-proof</guid>
+      <pubDate>Mon, 23 Nov 2026 14:47:39 +0000</pubDate>
+      <description>Levent Alpöge released a compiling 17-million-line Lean library proving the Riemann Hypothesis, with the Lean and Mathlib communities reporting full confidence that the formalization proves the correct statement.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Thinking Machines releases open-weight Inkling 2 Mini reasoning model</title>
+      <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+      <guid isPermaLink="false">2026-11-23-thinking-machines-inkling-2-mini</guid>
+      <pubDate>Mon, 23 Nov 2026 14:47:39 +0000</pubDate>
+      <description>Thinking Machines released Inkling 2 Mini, a 26.4-billion-parameter open-weight reasoning model that leads open-weight models below 100 billion parameters on the DeepSWE coding benchmark.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>NVIDIA releases continuous-diffusion language models</title>
+      <link>https://research.nvidia.com/labs/genair/sigma/</link>
+      <guid isPermaLink="false">2026-11-23-nvidia-nemotron-labs-sigma</guid>
+      <pubDate>Mon, 23 Nov 2026 14:47:39 +0000</pubDate>
+      <description>NVIDIA released 14 Nemotron-Labs-Sigma checkpoints that generate text by denoising token embeddings, with its 8-billion-parameter model delivering a reported 3.46x average throughput gain over autoregressive decoding on a GB200.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>METR finds frontier AI task horizon doubling every 3.6 months</title>
+      <link>https://metr.org/blog/2026-11-20-q4-2026-capability-update/</link>
+      <guid isPermaLink="false">2026-11-23-metr-ai-r-and-d-capability-update</guid>
+      <pubDate>Mon, 23 Nov 2026 14:47:39 +0000</pubDate>
+      <description>METR reports that the length of well-defined coding and optimization tasks frontier models can complete is doubling about every 3.6 months, leaving open the possibility of a drastic AI-research speedup within several years.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Replit benchmark shows agent swarms can outperform solo coders</title>
       <link>https://frontier.replit.com/throwing-headcount-at-the-problem/</link>
