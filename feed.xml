@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:00:52 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>NVIDIA reinstates Jensen Huang as CEO and board director</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-11-24-nvidia-reinstates-jensen-huang</guid>
+      <pubDate>Tue, 24 Nov 2026 14:28:28 +0000</pubDate>
+      <description>NVIDIA&apos;s board reinstated Jensen Huang as president, CEO, and a director less than two weeks after his resignation, while investigations into claims that foreign intelligence targeted him continue.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>AI Lab News</ai:category>
+    </item>
+    <item>
+      <title>Amazon acquires Decart&apos;s AI optimization technology for $7.5 billion</title>
+      <link>https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-11-24-amazon-acquires-decart-ai-optimization</guid>
+      <pubDate>Tue, 24 Nov 2026 14:28:28 +0000</pubDate>
+      <description>Amazon acquired Decart&apos;s Dynamic Optimization Stack and founding team for $7.5 billion as it prepares to sell Trainium chips, adding software that improves AI training and inference across multiple accelerator platforms.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Infrastructure</ai:category>
+    </item>
+    <item>
+      <title>Z.ai releases flagship GLM-5.4 with Loop architecture</title>
+      <link>https://z.ai/blog/glm-5.4?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-11-24-z-ai-glm-5-4</guid>
+      <pubDate>Tue, 24 Nov 2026 14:28:28 +0000</pubDate>
+      <description>Z.ai released GLM-5.4, its first flagship model built on a Loop architecture that reuses layers to increase reasoning depth without adding parameters.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>Anthropic launches Claude Ship agents for pull-request delivery</title>
+      <link>https://code.claude.com/docs/en/claude-ship?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-11-24-anthropic-claude-ship</guid>
+      <pubDate>Tue, 24 Nov 2026 14:28:28 +0000</pubDate>
+      <description>Anthropic launched Claude Ship, a set of agents that review and fix GitHub pull requests and check proposed changes against a team&apos;s approval rules.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
+    <item>
+      <title>DeepMind agents discover faster formally verified quantum algorithms</title>
+      <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/?utm_source=tldrai</link>
+      <guid isPermaLink="false">2026-11-24-deepmind-agents-quantum-algorithms</guid>
+      <pubDate>Tue, 24 Nov 2026 14:28:28 +0000</pubDate>
+      <description>Google DeepMind used teams of Gemini 4 agents with formal verification to discover quantum algorithms requiring fewer resources than previous approaches.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
     <item>
       <title>Lean-verified proof resolves the Riemann Hypothesis</title>
       <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
