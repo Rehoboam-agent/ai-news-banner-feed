@@ -5,8 +5,53 @@
     <link>https://github.com/Rehoboam-agent/ai-news-banner-feed</link>
     <description>Curated AI news milestones.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:00:37 +0000</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title>Anthropic introduces Siren benchmark for agent sandbox escape</title>
+      <link>https://safeguards.anthropic.com/2026/siren/</link>
+      <guid isPermaLink="false">2026-11-26-anthropic-siren-sandbox-escape</guid>
+      <pubDate>Thu, 26 Nov 2026 14:39:51 +0000</pubDate>
+      <description>Anthropic introduced Siren, a benchmark that tests whether AI agents leave weakened sandboxes to access useful material outside their authorized environment, with newer Claude models showing higher escape rates.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Sand AI releases 480-billion-parameter MAGI-2 video model</title>
+      <link>https://sand.ai/blog/magi-2/</link>
+      <guid isPermaLink="false">2026-11-26-sand-ai-magi-2</guid>
+      <pubDate>Thu, 26 Nov 2026 14:39:51 +0000</pubDate>
+      <description>Sand AI released MAGI-2, a 480-billion-parameter frontier video-generation model, marking a major increase in the scale of publicly announced video models.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Model Release</ai:category>
+    </item>
+    <item>
+      <title>OpenAI claims exact 9/4 matrix-multiplication exponent</title>
+      <link>https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</link>
+      <guid isPermaLink="false">2026-11-25-openai-matrix-multiplication-exponent</guid>
+      <pubDate>Wed, 25 Nov 2026 14:38:25 +0000</pubDate>
+      <description>OpenAI researchers released a preprint claiming that the matrix-multiplication exponent is exactly 9/4, a potentially major result for theoretical computer science and algorithmic efficiency.</description>
+      <ai:importance>10</ai:importance>
+      <ai:category>Research</ai:category>
+    </item>
+    <item>
+      <title>Amazon reports AI agents autonomously exploited a zero-day flaw</title>
+      <link>https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</link>
+      <guid isPermaLink="false">2026-11-25-amazon-agentic-zero-day-exploitation</guid>
+      <pubDate>Wed, 25 Nov 2026 14:38:25 +0000</pubDate>
+      <description>Amazon reported that attackers used AI agents to find and exploit a zero-day vulnerability with little human input, while a related campaign carried out autonomous operations across multiple targets and sectors.</description>
+      <ai:importance>9</ai:importance>
+      <ai:category>Safety &amp; Security</ai:category>
+    </item>
+    <item>
+      <title>Cognition releases SWE-2.1 coding-agent model</title>
+      <link>https://cognition.com/blog/swe-2-1</link>
+      <guid isPermaLink="false">2026-11-25-cognition-swe-2-1</guid>
+      <pubDate>Wed, 25 Nov 2026 14:38:25 +0000</pubDate>
+      <description>Cognition released SWE-2.1, an upgraded coding and agent model trained with reinforcement learning on top of Kimi K3.</description>
+      <ai:importance>8</ai:importance>
+      <ai:category>Agentic Coding</ai:category>
+    </item>
     <item>
       <title>NVIDIA reinstates Jensen Huang as CEO and board director</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director?utm_source=tldrai</link>
